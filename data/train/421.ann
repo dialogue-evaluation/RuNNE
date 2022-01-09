@@ -1,0 +1,43 @@
+T2	PERSON 0 8	У.Баффет
+T3	ORDINAL 35 42	второго
+T4	NATIONALITY 70 82	Американский
+T5	PERSON 94 107	Уоррен Баффет
+T6	ORGANIZATION 150 168	Berkshire Hathaway
+T7	ORDINAL 194 201	второго
+T8	AGE 238 247	50-летний
+T9	PERSON 248 258	Тед Вешлер
+T10	PROFESSION 260 317	управляющий партнер хедж-фонда Peninsula Capital Advisors
+T11	ORGANIZATION 291 317	Peninsula Capital Advisors
+T13	PERSON 319 327	Т.Вешлер
+T14	DATE 374 388	в начале 2012г
+T15	ORGANIZATION 412 421	Berkshire
+T16	DATE 489 496	В 2007г
+T17	ORGANIZATION 498 516	Berkshire Hathaway
+T19	PERSON 619 628	У.Баффету
+T21	PERSON 679 688	У.Баффету
+T22	AGE 689 695	81 год
+T23	ORGANIZATION 760 769	Berkshire
+T25	PERSON 786 795	У.Баффета
+T26	AGE 801 810	40-летний
+T27	PERSON 811 821	Тодд Комбс
+T28	ORGANIZATION 838 847	Berkshire
+T30	PERSON 894 902	У.Баффет
+T31	PROFESSION 912 927	главой холдинга
+T33	PERSON 929 937	Т.Комбсу
+T35	PERSON 940 949	Т.Вешлеру
+T37	PERSON 1021 1029	У.Баффет
+T38	ORGANIZATION 1052 1061	Berkshire
+T39	NUMBER 1063 1066	два
+T40	ORDINAL 1161 1167	третий
+T41	ORGANIZATION 1206 1224	Berkshire Hathaway
+T42	PROFESSION 202 226	менеджера по инвестициям
+T12	DATE 848 855	в 2010г
+T18	PROFESSION 1067 1076	менеджера
+T20	PROFESSION 1168 1181	соуправляющий
+T24	PROFESSION 541 576	специалистов по управлению активами
+T29	PROFESSION 43 67	менеджера по инвестициям
+T1	PROFESSION 83 93	миллиардер
+T32	PROFESSION 43 52	менеджера
+T34	PROFESSION 202 211	менеджера
+T36	PROFESSION 640 670	управляющего деньгами компании
+T43	PROFESSION 260 279	управляющий партнер

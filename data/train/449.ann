@@ -1,0 +1,57 @@
+T2	PERSON 0 7	М.Драги
+T3	PROFESSION 24 46	главой Европейского ЦБ
+T4	ORGANIZATION 31 46	Европейского ЦБ
+T5	ORGANIZATION 61 79	Европейского союза
+T6	ORGANIZATION 81 83	ЕС
+T7	NATIONALITY 106 115	итальянца
+T8	PERSON 116 127	Марио Драги
+T9	PROFESSION 134 172	главой Европейского центрального банка
+T10	ORGANIZATION 141 172	Европейского центрального банка
+T11	ORGANIZATION 174 177	ЕЦБ
+T12	DATE 208 224	с 1 ноября 2011г
+T13	DATE 226 245	по 31 октября 2019г
+T14	ORGANIZATION 257 264	Reuters
+T15	ORGANIZATION 289 291	ЕС
+T17	PERSON 309 316	М.Драги
+T18	PROFESSION 359 411	руководителя в Совете финансовой стабильности Европы
+T19	ORGANIZATION 374 411	Совете финансовой стабильности Европы
+T20	PROFESSION 452 461	главы ЕЦБ
+T21	PERSON 462 477	Жан-Клода Трише
+T22	AGE 503 512	63-летний
+T23	PERSON 513 524	Марио Драги
+T24	ORGANIZATION 554 577	Центральный банк Италии
+T25	ORGANIZATION 628 637	Евросоюза
+T26	ORGANIZATION 640 676	экономический комитет Европарламента
+T28	ORGANIZATION 737 740	ЕЦБ
+T29	PERSON 741 759	Лоренцо Бини Смаги
+T30	DATE 846 857	в мае 2013г
+T31	COUNTRY 891 902	итальянских
+T32	COUNTRY 905 916	французских
+T33	COUNTRY 974 981	Франция
+T36	PERSON 1023 1033	Ж.-К.Трише
+T37	NATIONALITY 1068 1075	француз
+T39	PERSON 1107 1114	Л.Смаги
+T41	PERSON 1122 1129	М.Драги
+T42	NATIONALITY 1140 1150	итальянцем
+T43	COUNTRY 1159 1166	Франция
+T44	PROFESSION 1223 1238	члена правления
+T45	PROFESSION 1253 1262	глава ЕЦБ
+T46	PERSON 1263 1277	Жан-Клод Трише
+T47	DATE 1300 1323	в октябре текущего года
+T1	LOCATION 31 43	Европейского
+T48	LOCATION 141 153	Европейского
+T16	LOCATION 405 411	Европы
+T49	ORGANIZATION 458 461	ЕЦБ
+T50	COUNTRY 571 577	Италии
+T51	PROFESSION 610 637	министры финансов Евросоюза
+T52	ORGANIZATION 662 676	Европарламента
+T27	ORGANIZATION 727 740	правления ЕЦБ
+T53	PROFESSION 722 740	член правления ЕЦБ
+T34	ORGANIZATION 1259 1262	ЕЦБ
+T35	ORGANIZATION 44 46	ЦБ
+T38	EVENT 96 105	назначили
+T40	ORGANIZATION 554 570	Центральный банк
+T54	PROFESSION 610 627	министры финансов
+T55	PROFESSION 960 971	главы банка
+T56	LOCATION 61 73	Европейского
+T57	EVENT 760 777	покинет свой пост

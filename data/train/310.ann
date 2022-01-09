@@ -1,0 +1,55 @@
+T1	COUNTRY 0 10	Португалия
+T3	PERSON 66 85	Анибал Каваку Силва
+T4	PROFESSION 104 120	премьер-министра
+T6	ORGANIZATION 135 164	Социал-демократической партии
+T7	PERSON 165 184	Педру Пассуш-Коэлью
+T8	PERSON 186 205	Pedro Passos Coelho
+T9	ORGANIZATION 217 237	Agence France-Presse
+T10	DATE 293 299	5 июня
+T11	PERCENT 330 342	38 процентов
+T12	PROFESSION 384 411	премьер-министра Португалии
+T13	PERSON 412 426	Жозе Сократеша
+T14	ORGANIZATION 443 466	Социалистическую партию
+T15	DATE 505 516	с 2005 года
+T16	PERCENT 569 581	28 процентов
+T17	DATE 624 635	с 1987 года
+T19	PROFESSION 774 783	Президент
+T20	AGE 793 803	46-летнего
+T21	PERSON 804 817	Пассуш-Коэлью
+T23	ORGANIZATION 919 940	парламенте Португалии
+T24	NUMBER 941 944	105
+T25	DATE 1018 1028	до 23 июня
+T26	PERSON 1030 1043	Пассуш-Коэлью
+T27	ORGANIZATION 1166 1173	Reuters
+T28	COUNTRY 1219 1229	Португалии
+T29	MONEY 1351 1369	78 миллиардов евро
+T30	ORGANIZATION 1373 1382	Евросоюза
+T31	ORGANIZATION 1385 1415	Международного валютного фонда
+T32	PROFESSION 27 43	премьер-министра
+T33	PROFESSION 45 65	Президент Португалии
+T34	PROFESSION 45 54	Президент
+T35	COUNTRY 55 65	Португалии
+T36	PERSON 247 260	Пассуш-Коэлью
+T37	EVENT 300 321	парламентских выборах
+T38	IDEOLOGY 352 367	Социал-демократ
+T39	COUNTRY 401 411	Португалии
+T5	IDEOLOGY 539 549	социалисты
+T40	IDEOLOGY 654 665	социалистов
+T41	PERSON 666 674	Сократеш
+T18	IDEOLOGY 891 907	социал-демократы
+T22	COUNTRY 930 940	Португалии
+T42	NUMBER 948 951	230
+T43	PROFESSION 979 986	премьер
+T44	ORGANIZATION 1100 1118	кабинета министров
+T45	PROFESSION 1109 1118	министров
+T46	EVENT 86 103	утвердил на посту
+T47	PROFESSION 128 164	лидера Социал-демократической партии
+T48	IDEOLOGY 135 157	Социал-демократической
+T49	ORGANIZATION 240 260	Партия Пассуш-Коэлью
+T50	IDEOLOGY 443 459	Социалистическую
+T51	EVENT 531 538	выборах
+T52	ORGANIZATION 919 929	парламенте
+T53	ORGANIZATION 1205 1229	правительства Португалии
+T54	ORGANIZATION 1205 1218	правительства
+T2	COUNTRY 224 230	France
+T55	EVENT 691 718	уходе с поста лидера партии

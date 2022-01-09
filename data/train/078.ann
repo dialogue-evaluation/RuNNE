@@ -1,0 +1,30 @@
+T2	PERSON 44 53	Э.Уитакер
+T3	PROFESSION 56 85	Временный главный управляющий
+T4	ORGANIZATION 117 131	General Motors
+T5	ORGANIZATION 133 135	GM
+T6	PERSON 137 151	Эдвард Уитакер
+T7	PROFESSION 161 180	главным управляющим
+T8	DATE 243 250	сегодня
+T9	ORGANIZATION 261 277	Associated Press
+T10	AGE 279 288	68-летний
+T12	PERSON 289 298	Э.Уитакер
+T13	PROFESSION 303 332	временным главным управляющим
+T14	DATE 336 353	с 1 декабря 2009г
+T16	PERSON 393 409	Фрица Хендерсона
+T17	PROFESSION 418 426	глава GM
+T18	ORGANIZATION 485 487	GM
+T20	PERSON 588 597	Э.Уитакер
+T21	MONEY 633 646	8,1 млрд долл
+T22	COUNTRY 663 666	США
+T23	COUNTRY 669 675	Канады
+T24	ORGANIZATION 20 34	General Motors
+T25	PROFESSION 0 34	Главным управляющим General Motors
+T27	COUNTRY 86 99	американского
+T28	ORGANIZATION 333 335	GM
+T15	ORGANIZATION 424 426	GM
+T19	ORGANIZATION 648 662	правительствам
+T1	EVENT 152 160	назначен
+T11	PROFESSION 303 335	временным главным управляющим GM
+T26	EVENT 35 43	назначен
+T29	PROFESSION 0 19	Главным управляющим
+T30	EVENT 361 369	отставки

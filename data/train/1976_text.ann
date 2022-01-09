@@ -1,0 +1,37 @@
+T1	PROFESSION 0 11	Президентом
+T7	ORDINAL 135 141	втором
+T8	EVENT 161 168	выборов
+T9	COUNTRY 171 175	Чили
+T10	PERSON 192 206	Мишель Бачелет
+T12	PERSON 276 283	Бачелет
+T13	PERCENT 290 296	53,5 %
+T15	PERSON 361 379	Себастьяна Пиньера
+T16	PERCENT 386 392	46,5 %
+T17	PERSON 403 432	Вероника Мишель Бачелет Хериа
+T18	ORDINAL 435 441	первая
+T19	PROFESSION 450 459	президент
+T20	PERSON 467 481	Мишель Бачелет
+T21	PROFESSION 489 497	генерала
+T22	PROFESSION 542 550	генерала
+T23	COUNTRY 628 631	ГДР
+T24	PERSON 634 648	Мишель Бачелет
+T25	AGE 651 658	54 года
+T26	PROFESSION 660 664	врач
+T28	PROFESSION 0 16	Президентом Чили
+T30	PROFESSION 147 160	президентских
+T32	PROFESSION 450 464	президент Чили
+T33	PROFESSION 489 501	генерала ВВС
+T34	COUNTRY 12 16	Чили
+T36	EVENT 147 168	президентских выборов
+T11	IDEOLOGY 250 266	левоцентристской
+T38	IDEOLOGY 332 342	консервтор
+T14	COUNTRY 460 464	Чили
+T39	ORGANIZATION 498 501	ВВС
+T41	PERSON 551 559	Пиночета
+T42	PERSON 581 589	Пиночета
+T43	EVENT 595 605	арестована
+T44	EVENT 613 625	эмигрировала
+T27	EVENT 135 168	втором туре президентских выборов
+T31	EVENT 135 146	втором туре
+T37	EVENT 511 516	погиб
+T40	CRIME 520 525	пыток

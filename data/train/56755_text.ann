@@ -1,0 +1,58 @@
+T1	PROFESSION 0 10	Экономисты
+T2	ORGANIZATION 68 89	Университет Барселоны
+T3	COUNTRY 101 110	испанских
+T4	ORGANIZATION 136 156	Правительству страны
+T5	MONEY 241 249	625 евро
+T6	COUNTRY 288 295	Испании
+T7	PERSON 426 441	Джорди Аркаронс
+T8	PERSON 443 457	Jordi Arcarons
+T9	PROFESSION 459 509	профессор Кафедры экономики Университета Барселоны
+T10	ORGANIZATION 487 509	Университета Барселоны
+T11	ORGANIZATION 511 535	Universidad de Barcelona
+T12	PROFESSION 538 580	профессор экономики и социального развития
+T13	PERSON 603 617	Антони Доменеч
+T14	PERSON 619 634	Antoni Domènech
+T15	PROFESSION 637 678	профессор экономики и предпринимательства
+T16	PROFESSION 680 708	Президент Сети базовой ренты
+T17	ORGANIZATION 710 726	Red Renta Básica
+T18	PERSON 728 743	Даньел Равентос
+T19	PERSON 745 760	Daniel Raventós
+T20	PERSON 764 777	Льюис Торренс
+T21	PROFESSION 780 793	преподаватель
+T22	ORGANIZATION 820 847	Университета Помпеу и Фабра
+T23	ORGANIZATION 849 873	Universidad Pompeu Fabra
+T24	ORGANIZATION 876 879	UPF
+T25	PROFESSION 883 919	глава исследовательского центра IESE
+T26	ORGANIZATION 915 919	IESE
+T27	MONEY 1117 1131	7.5 тысяч евро
+T28	COUNTRY 1212 1219	Испании
+T29	AGE 1220 1233	старше 18 лет
+T30	PERCENT 1454 1457	10%
+T31	ORGANIZATION 1507 1531	Министерства образования
+T32	ORGANIZATION 1692 1734	Министерства здравоохранения и образования
+T34	DATE 1861 1875	ежегодно в мае
+T35	COUNTRY 11 18	Испании
+T36	PROFESSION 57 66	студентов
+T37	PROFESSION 0 18	Экономисты Испании
+T38	CITY 80 89	Барселоны
+T39	PROFESSION 111 122	экономистов
+T40	PROFESSION 101 122	испанских экономистов
+T41	PROFESSION 184 193	студентам
+T42	ORGANIZATION 469 509	Кафедры экономики Университета Барселоны
+T43	PROFESSION 459 468	профессор
+T44	CITY 500 509	Барселоны
+T45	PROFESSION 538 547	профессор
+T46	PROFESSION 637 646	профессор
+T47	ORGANIZATION 690 708	Сети базовой ренты
+T48	ORGANIZATION 794 847	Школы Предпринимательства Университета Помпеу и Фабра
+T49	PROFESSION 780 847	преподаватель Школы Предпринимательства Университета Помпеу и Фабра
+T50	PROFESSION 1202 1211	студентов
+T51	PROFESSION 1032 1041	студентов
+T53	ORGANIZATION 1507 1539	Министерства образования Испании
+T54	COUNTRY 1532 1539	Испании
+T55	ORGANIZATION 1692 1742	Министерства здравоохранения и образования Испании
+T56	COUNTRY 1735 1742	Испании
+T57	LAW 1813 1833	Декларации о доходах
+T58	LAW 1835 1839	IRPF
+T59	DATE 1870 1875	в мае
+T33	CITY 526 535	Barcelona

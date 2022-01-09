@@ -1,0 +1,37 @@
+T2	PERSON 20 34	Марк Цукерберг
+T4	PRODUCT 113 121	Facebook
+T5	PERSON 122 136	Марк Цукерберг
+T6	PERSON 162 175	Присцилле Чан
+T7	ORGANIZATION 196 212	Associated Press
+T8	DATE 233 242	в субботу
+T9	PERSON 255 259	Марк
+T10	PRODUCT 325 333	Facebook
+T11	AGE 363 369	27 лет
+T12	ORGANIZATION 387 411	Гарвардском университете
+T13	PERSON 417 421	Марк
+T15	NUMBER 500 503	100
+T16	PERSON 560 571	Принсциллой
+T17	ORGANIZATION 596 619	Университета Калифорния
+T18	CITY 622 635	Сан-Франциско
+T19	PRODUCT 723 731	Facebook
+T20	DATE 746 765	4 февраля 2004 года
+T21	PRODUCT 877 885	Facebook
+T22	NUMBER 960 979	более 845 миллионов
+T23	PERSON 991 995	Марк
+T24	DATE 1049 1058	В пятницу
+T25	ORGANIZATION 1104 1131	Нью-Йоркской фондовой бирже
+T26	MONEY 1187 1210	105 миллиардов долларов
+T1	PRODUCT 11 19	Facebook
+T28	EVENT 35 42	женился
+T29	EVENT 137 144	женился
+T30	EVENT 214 221	Свадьба
+T14	NUMBER 439 445	девяти
+T31	EVENT 452 459	Свадьба
+T32	STATE_OR_PROVINCE 609 619	Калифорния
+T33	EVENT 683 690	свадьбе
+T34	ORGANIZATION 824 849	Гарвардского университета
+T35	ORGANIZATION 1059 1067	Facebook
+T36	CITY 1104 1116	Нью-Йоркской
+T3	ORGANIZATION 572 619	медицинского факультета Университета Калифорния
+T27	EVENT 1068 1100	первичное размещение своих акций
+T37	EVENT 1068 1088	первичное размещение

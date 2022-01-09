@@ -1,0 +1,47 @@
+T1	COUNTRY 22 31	Аргентины
+T2	ORDINAL 39 45	первая
+T3	LOCATION 48 61	Южной Америке
+T4	PROFESSION 70 86	офицер-подводник
+T5	COUNTRY 91 100	Аргентине
+T6	ORDINAL 131 137	первая
+T7	LOCATION 140 153	Южной Америке
+T8	AGE 182 191	35-летняя
+T9	PERSON 192 212	Элиана Мария Кравчук
+T10	PERSON 214 235	Eliana María Krawczyk
+T11	PERSON 306 320	Элиана Кравчук
+T12	STATE_OR_PROVINCE 340 349	Миссионес
+T13	CITY 358 363	Обера
+T15	AGE 368 375	21 года
+T16	ORGANIZATION 453 474	Университет Миссионес
+T17	ORGANIZATION 678 711	Escuela Naval Militar de Ensenada
+T18	CITY 720 727	Посадас
+T19	COUNTRY 729 738	Аргентина
+T20	ORGANIZATION 866 895	Escuela de Submarinos y Buceo
+T21	PERSON 904 918	Элиана Кравчук
+T22	ORDINAL 930 936	первой
+T23	COUNTRY 979 988	Аргентине
+T24	LOCATION 997 1010	Южной Америке
+T25	DATE 1027 1036	15 ноября
+T26	COUNTRY 1047 1056	Аргентины
+T27	ORGANIZATION 1089 1102	ВМС Аргентины
+T28	NUMBER 1105 1107	44
+T30	PRODUCT 1150 1158	San Juan
+T32	CITY 1218 1223	Ушуая
+T33	CITY 1246 1260	Мар-дель-Платы
+T34	NUMBER 1343 1351	около 20
+T35	NUMBER 1497 1503	432 км
+T36	STATE_OR_PROVINCE 1534 1539	Чубут
+T37	CITY 1553 1566	Пуэрто Мадрин
+T39	PROFESSION 162 171	подводник
+T40	EVENT 101 117	пропала подлодка
+T43	STATE_OR_PROVINCE 465 474	Миссионес
+T45	PROFESSION 852 863	подводников
+T46	PROFESSION 955 966	подводником
+T47	EVENT 1057 1088	пропала военная подводная лодка
+T48	COUNTRY 1093 1102	Аргентины
+T29	DISEASE 600 619	сердечного приступа
+T38	PROFESSION 946 954	офицером
+T31	EVENT 1335 1379	высланы около 20 военных поисковых самолетов
+T41	PROFESSION 1108 1116	моряками
+T42	EVENT 3 21	пропавшей подлодке
+T14	EVENT 1430 1436	Поиски

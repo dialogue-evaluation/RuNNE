@@ -1,0 +1,35 @@
+T1	ORGANIZATION 0 14	Комитет Сената
+T2	COUNTRY 31 41	Черногории
+T3	ORGANIZATION 44 48	НАТО
+T4	ORGANIZATION 50 66	Вооружённые силы
+T5	COUNTRY 67 77	Черногории
+T6	ORGANIZATION 78 124	Комитет Сената США по международным отношениям
+T7	COUNTRY 164 174	Черногории
+T8	ORGANIZATION 177 181	НАТО
+T9	ORDINAL 192 198	вторая
+T11	COUNTRY 246 268	югославской республики
+T12	ORGANIZATION 271 278	Комитет
+T13	DATE 301 312	в 2016 году
+T14	ORGANIZATION 317 322	Сенат
+T15	DATE 386 392	на год
+T16	LAW 420 431	Конституции
+T17	COUNTRY 432 435	США
+T18	ORGANIZATION 455 459	НАТО
+T19	NUMBER 499 510	двух третей
+T20	NUMBER 514 517	100
+T21	ORGANIZATION 525 531	Сената
+T22	COUNTRY 579 589	Черногории
+T23	ORGANIZATION 592 596	НАТО
+T24	COUNTRY 644 651	Албании
+T25	COUNTRY 654 662	Хорватии
+T26	DATE 663 674	в 2009 году
+T27	ORGANIZATION 8 14	Сената
+T28	ORGANIZATION 50 77	Вооружённые силы Черногории
+T29	ORGANIZATION 86 96	Сената США
+T30	COUNTRY 93 96	США
+T10	LAW 420 435	Конституции США
+T31	EVENT 15 30	поддержал прием
+T32	EVENT 125 142	одобрил резолюцию
+T33	EVENT 283 300	одобрял резолюцию
+T34	EVENT 637 643	приёма
+T35	PROFESSION 207 220	законодателей

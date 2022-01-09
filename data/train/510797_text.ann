@@ -1,0 +1,43 @@
+T1	PROFESSION 0 3	Мэр
+T2	PERSON 12 27	Николай Булакин
+T3	PERSON 40 55	Николай Булакин
+T5	PERSON 88 103	Николай Булакин
+T6	EVENT 112 126	автокатастрофе
+T7	DATE 127 162	в понедельник, 14 октября 2019 года
+T8	AGE 173 179	66 лет
+T9	PERSON 182 189	Булакин
+T10	ORDINAL 208 213	433-м
+T12	FACILITY 231 236	Р-257
+T13	CITY 254 262	Топольки
+T14	DISTRICT 263 282	Минусинского района
+T15	STATE_OR_PROVINCE 285 302	Красноярском крае
+T16	PERSON 305 323	Николай Генрихович
+T17	PRODUCT 365 378	Ford Explorer
+T18	TIME 520 539	Утром в понедельник
+T19	CITY 553 560	Абакане
+T20	NUMBER 570 576	тысячу
+T21	PERSON 587 602	Николай Булакин
+T22	CITY 614 620	Абакан
+T24	NUMBER 662 666	пять
+T25	DATE 721 730	1989 году
+T26	DATE 732 751	В октябре 2018 года
+T27	PROFESSION 810 826	врио губернатора
+T28	NUMBER 860 864	двое
+T29	CITY 4 11	Абакана
+T30	PROFESSION 0 11	Мэр Абакана
+T32	CITY 62 69	Абакана
+T33	PROFESSION 56 69	Глава Абакана
+T34	STATE_OR_PROVINCE 79 86	Хакасии
+T37	EVENT 198 204	аварию
+T11	PROFESSION 448 456	Чиновник
+T39	PROFESSION 540 543	мэр
+T23	DATE 621 632	с 1995 года
+T41	PERSON 752 759	Булакин
+T42	STATE_OR_PROVINCE 827 834	Хакасии
+T31	EVENT 36 39	ДТП
+T35	DATE 526 539	в понедельник
+T36	EVENT 544 550;561 566	открыл лицей
+T4	PROFESSION 815 826	губернатора
+T38	PROFESSION 810 834	врио губернатора Хакасии
+T40	EVENT 28 33	погиб
+T43	EVENT 104 109	погиб

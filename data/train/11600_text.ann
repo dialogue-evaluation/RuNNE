@@ -1,0 +1,25 @@
+T1	PERSON 0 16	Дмитрий Медведев
+T2	ORGANIZATION 24 31	Госдуму
+T3	LAW 47 56	О полиции
+T5	ORGANIZATION 81 87	Кремля
+T6	PROFESSION 107 116	Президент
+T7	COUNTRY 117 123	России
+T8	PERSON 124 140	Дмитрий Медведев
+T9	ORGANIZATION 148 168	Государственную Думу
+T10	LAW 184 193	О полиции
+T11	PROFESSION 226 235	Президент
+T12	DATE 243 262	6 августа 2010 года
+T14	ORGANIZATION 581 588	Госдуму
+T15	PROFESSION 680 692	полицейского
+T16	ORGANIZATION 797 800	МВД
+T17	PERSON 1427 1440	Лев Пономарёв
+T18	PROFESSION 107 123	Президент России
+T13	ORGANIZATION 68 87	пресс-служба Кремля
+T19	PROFESSION 993 1003	милиционер
+T20	PROFESSION 1475 1486	полицейские
+T21	PROFESSION 1239 1255	провозащиткников
+T22	PROFESSION 787 800	сотрудник МВД
+T23	EVENT 17 31	внёс в Госдуму
+T24	EVENT 141 168	внёс в Государственную Думу
+T25	PROFESSION 1332 1349	сотрудник Полиции
+T26	ORGANIZATION 1342 1349	Полиции

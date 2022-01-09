@@ -1,0 +1,41 @@
+T1	ORGANIZATION 1 9	Спортинг
+T2	PERSON 21 31	Веркотерен
+T3	FACILITY 40 53	Жозе Алваладе
+T4	ORGANIZATION 99 107	Спортинг
+T5	DATE 110 120	24 октября
+T6	PERSON 140 156	Франк Веркотерен
+T7	CITY 178 190	лиссабонский
+T8	ORGANIZATION 208 216	Спортинг
+T9	AGE 230 239	55-летним
+T10	DATE 262 277	до конца сезона
+T11	PERSON 325 335	Веркотерен
+T12	DATE 372 382	30 октября
+T13	PERSON 385 401	Франк Веркотерен
+T14	ORGANIZATION 420 431	Аль-Джазира
+T15	ORGANIZATION 435 439	Генк
+T16	CITY 443 455	брюссельский
+T17	ORGANIZATION 457 466	Андерлехт
+T18	NATIONALITY 537 545	Бельгиец
+T19	PROFESSION 563 579	главного тренера
+T20	PERSON 580 596	Рикарду Са Пинту
+T21	ORDINAL 613 617	2-го
+T23	COUNTRY 655 666	венгерского
+T24	ORGANIZATION 668 677	Видеотона
+T25	ORGANIZATION 685 693	Спортинг
+T26	PERSON 715 723	Са Пинту
+T27	NATIONALITY 121 132	бельгийский
+T28	PROFESSION 133 139	тренер
+T30	NUMBER 490 496	трижды
+T31	EVENT 517 535	чемпионате Бельгии
+T32	COUNTRY 528 535	Бельгии
+T33	PROFESSION 572 579	тренера
+T34	EVENT 613 651	2-го тура группового этапа Лиги Европы
+T35	EVENT 623 651	группового этапа Лиги Европы
+T36	EVENT 640 651	Лиги Европы
+T22	LOCATION 645 651	Европы
+T37	NUMBER 680 681	0
+T38	NUMBER 682 683	3
+T39	EVENT 706 714	отставку
+T40	EVENT 517 527	чемпионате
+T29	EVENT 11 20	возглавил
+T41	EVENT 168 177	возглавил

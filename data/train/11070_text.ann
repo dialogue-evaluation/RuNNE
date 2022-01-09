@@ -1,0 +1,50 @@
+T1	PERSON 0 8	Медведев
+T2	PROFESSION 35 39	мэра
+T3	CITY 40 46	Москвы
+T4	PERSON 47 54	Лужкова
+T5	PROFESSION 55 64	Президент
+T6	COUNTRY 65 71	России
+T7	PERSON 72 88	Дмитрий Медведев
+T8	DATE 89 100	28 сентября
+T9	PROFESSION 151 155	мэра
+T10	CITY 156 162	Москвы
+T11	PROFESSION 208 218	президента
+T12	COUNTRY 219 221	РФ
+T13	PERSON 224 238	Владимир Путин
+T14	PERSON 241 252	Юрий Лужков
+T15	PERSON 254 265	Юрий Лужков
+T16	PROFESSION 286 290	мэра
+T17	CITY 291 297	Москвы
+T18	DATE 298 310	более 18 лет
+T19	CITY 434 440	Москвы
+T20	DATE 508 524	Последние недели
+T21	PROFESSION 595 599	мэра
+T22	CITY 600 606	Москвы
+T23	ORGANIZATION 707 710	СКП
+T24	ORGANIZATION 713 716	МВД
+T25	COUNTRY 717 723	России
+T26	PROFESSION 820 824	мэра
+T27	PERSON 825 837	Юрия Лужкова
+T28	PERSON 852 867	Елены Батуриной
+T29	PERSON 971 983	Иосиф Кобзон
+T30	PERSON 1002 1016	Юрием Лужковым
+T31	PROFESSION 1022 1025	мэр
+T32	PERSON 1153 1164	Юрий Лужков
+T33	PROFESSION 1183 1193	президента
+T41	PROFESSION 1306 1311	мэром
+T42	COUNTRY 1320 1326	России
+T44	PERSON 1402 1426	Владимир Иосифович Ресин
+T45	PROFESSION 35 46	мэра Москвы
+T46	PROFESSION 55 71	Президент России
+T47	LAW 116 162	О досрочном прекращении полномочий мэра Москвы
+T48	PROFESSION 151 162	мэра Москвы
+T49	PROFESSION 208 221	президента РФ
+T50	PROFESSION 286 297	мэра Москвы
+T51	PROFESSION 595 606	мэра Москвы
+T52	ORGANIZATION 713 723	МВД России
+T53	CITY 1312 1326	столицы России
+T34	PROFESSION 1306 1326	мэром столицы России
+T35	EVENT 101 114	подписал указ
+T36	EVENT 9 22	подписал указ
+T37	EVENT 26 34	отставке
+T38	LAW 1134 1151	указа об отставке

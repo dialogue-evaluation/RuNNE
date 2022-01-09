@@ -1,0 +1,49 @@
+T1	PERSON 0 8	Медведев
+T3	PERSON 55 71	Дмитрий Медведев
+T4	ORGANIZATION 163 166	РЭБ
+T5	PROFESSION 168 182	генерал-майора
+T6	PERSON 183 196	Олега Иванова
+T7	ORGANIZATION 273 291	Независимой газеты
+T8	PERSON 315 321	Иванов
+T9	PROFESSION 409 428	начальника Генштаба
+T10	PERSON 429 445	Николая Макарова
+T11	PROFESSION 501 509	генерала
+T12	PROFESSION 532 565	начальник управления РЭБ Генштаба
+T13	CITY 714 720	Москвы
+T14	ORGANIZATION 779 781	НГ
+T15	AGE 784 793	45-летний
+T16	PERSON 794 800	Иванов
+T17	PROFESSION 825 836	президентом
+T18	ORGANIZATION 900 923	пресс-служба Минобороны
+T19	PERSON 1036 1043	Иванова
+T20	PROFESSION 1067 1109	начальник Главного оперативного управления
+T21	PROFESSION 1112 1134	замначальника Генштаба
+T22	PROFESSION 1135 1152	генерал-лейтенант
+T23	PERSON 1153 1167	Андрей Третьяк
+T24	PROFESSION 1170 1194	начальник Главного штаба
+T25	PROFESSION 1197 1246	первый замглавнокомандующего Сухопутными войсками
+T26	PROFESSION 1247 1264	генерал-лейтенант
+T27	PROFESSION 28 36	генерала
+T28	PROFESSION 38 54	Президент России
+T29	PROFESSION 38 47	Президент
+T30	COUNTRY 48 54	России
+T31	ORGANIZATION 132 161	войск радиоэлектронной борьбы
+T32	PROFESSION 121 161	начальника войск радиоэлектронной борьбы
+T33	PROFESSION 334 343	генералов
+T34	ORGANIZATION 420 428	Генштаба
+T35	ORGANIZATION 464 469	армии
+T36	ORGANIZATION 553 565	РЭБ Генштаба
+T37	ORGANIZATION 557 565	Генштаба
+T38	PROFESSION 660 668	генералы
+T39	ORGANIZATION 913 923	Минобороны
+T40	PROFESSION 240 250	президента
+T41	PROFESSION 994 1003	генералов
+T42	ORGANIZATION 1077 1109	Главного оперативного управления
+T43	ORGANIZATION 1126 1134	Генштаба
+T44	ORGANIZATION 1180 1194	Главного штаба
+T45	ORGANIZATION 1226 1246	Сухопутными войсками
+T47	PROFESSION 1329 1342	военачальники
+T48	EVENT 9 15	уволил
+T49	EVENT 72 94	освободил от должности
+T50	EVENT 97 120	уволил с военной службы
+T51	PERSON 1265 1278	Сергей Скоков

@@ -1,0 +1,46 @@
+T2	PERSON 13 28	Михаила Сеспеля
+T3	ORGANIZATION 32 68	Чебоксарском кооперативном институте
+T5	EVENT 99 112	Стальная вера
+T6	AGE 127 136	110-летию
+T7	PERSON 170 185	Михаила Сеспеля
+T8	PROFESSION 217 266	заслуженный деятель искусств Чувашской Республики
+T9	PROFESSION 268 289	народный поэт Чувашии
+T10	PERSON 290 305	Николай Исмуков
+T11	AWARD 307 339	заслуженный работник культуры ЧР
+T12	PROFESSION 341 345	поэт
+T13	PERSON 346 361	Анатолий Смолин
+T15	PROFESSION 385 394	писателей
+T16	PROFESSION 397 408	журналистов
+T17	PERSON 416 442	Владислав Пастухов-Анаткас
+T19	PROFESSION 444 494	руководитель литературно-творческого клуба «Парус»
+T20	ORGANIZATION 488 493	Парус
+T21	PROFESSION 496 502	доцент
+T22	PERSON 674 681	Сеспелю
+T23	LANGUAGE 729 738	чувашском
+T24	LANGUAGE 740 747	русском
+T25	LANGUAGE 749 758	марийском
+T26	LANGUAGE 760 769	татарском
+T27	LANGUAGE 771 781	английском
+T28	LANGUAGE 783 791	немецком
+T29	LANGUAGE 794 805	французском
+T1	CITY 32 44	Чебоксарском
+T4	NATIONALITY 153 163	чувашского
+T30	PROFESSION 164 169	поэта
+T31	PROFESSION 203 208	поэта
+T32	STATE_OR_PROVINCE 246 266	Чувашской Республики
+T33	STATE_OR_PROVINCE 282 289	Чувашии
+T34	STATE_OR_PROVINCE 337 339	ЧР
+T35	COUNTRY 409 415	России
+T36	ORGANIZATION 379 415	Союза писателей и журналистов России
+T18	PROFESSION 363 372	журналист
+T37	PERSON 503 525	Василий Кошкин-Кервень
+T38	PROFESSION 635 640	поэта
+T39	PROFESSION 873 878	поэта
+T40	PROFESSION 820 828	студенты
+T41	PROFESSION 696 705	студентов
+T42	NATIONALITY 604 613	чувашской
+T43	EVENT 0 12	Вечер памяти
+T44	PROFESSION 217 245	заслуженный деятель искусств
+T45	AWARD 307 336	заслуженный работник культуры
+T46	PROFESSION 444 456	руководитель
+T47	PROFESSION 268 281	народный поэт

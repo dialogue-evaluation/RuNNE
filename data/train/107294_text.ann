@@ -1,0 +1,79 @@
+T1	PROFESSION 6 14	генсеком
+T2	ORGANIZATION 15 18	ООН
+T3	NATIONALITY 26 36	португалец
+T4	PERSON 37 45	Гутерреш
+T5	PERSON 47 63	Антониу Гутерриш
+T6	DATE 64 75	в 2012 году
+T7	ORGANIZATION 84 87	ООН
+T8	DATE 88 107	6 октября 2016 года
+T9	ORGANIZATION 108 126	Совет Безопасности
+T10	ORGANIZATION 127 130	ООН
+T12	COUNTRY 201 211	Португалии
+T13	PERSON 212 229	Антониу Гутерреша
+T14	PROFESSION 238 245	генсека
+T15	ORGANIZATION 246 249	ООН
+T16	PROFESSION 265 273	постпред
+T17	COUNTRY 274 280	России
+T18	ORGANIZATION 285 288	ООН
+T19	PERSON 289 303	Виталий Чуркин
+T20	ORGANIZATION 366 387	Генеральную Ассамблею
+T21	ORGANIZATION 388 391	ООН
+T22	ORGANIZATION 530 532	СБ
+T23	ORGANIZATION 582 585	ООН
+T24	DATE 587 598	в 1950 году
+T25	ORGANIZATION 599 611	Генассамблея
+T26	ORGANIZATION 625 632	Совбеза
+T28	PROFESSION 666 673	генсека
+T29	ORGANIZATION 674 677	ООН
+T30	NATIONALITY 678 686	норвежца
+T31	PERSON 687 696	Трюгве Ли
+T32	PROFESSION 706 727	генеральный секретарь
+T33	ORGANIZATION 728 731	ООН
+T34	DATE 759 777	1 января 2017 года
+T35	PROFESSION 788 794	генсек
+T36	PERSON 795 805	Пан Ги Мун
+T37	DATE 824 844	31 декабря 2016 года
+T38	DATE 852 874	двух пятилетних сроков
+T39	PERSON 877 912	Антониу Мануэл ди Оливейра Гутерреш
+T42	PERSON 920 955	António Manuel de Oliveira Guterres
+T44	DATE 962 976	30 апреля 1949
+T45	CITY 979 988	Лиссабоне
+T46	NATIONALITY 992 1005	португальский
+T47	PROFESSION 1006 1013	политик
+T48	DATE 1015 1026	в 1992—2002
+T49	PROFESSION 1029 1050	генеральный секретарь
+T50	ORGANIZATION 1051 1085	Социалистической партии Португалии
+T51	DATE 1092 1103	с 1974 года
+T52	DATE 1106 1120	в 1995—2002 гг
+T53	PROFESSION 1124 1139	премьер-министр
+T54	COUNTRY 1140 1164	Португальской республики
+T55	DATE 1166 1180	в 1999—2005 гг
+T56	PROFESSION 1184 1196	председатель
+T57	ORGANIZATION 1197 1207	Социнтерна
+T58	DATE 1209 1220	с 2005 года
+T59	PROFESSION 1223 1241	Верховный комиссар
+T60	ORGANIZATION 1242 1245	ООН
+T63	DATE 1265 1285	С 7 апреля 2016 года
+T64	PROFESSION 1288 1312	государственный советник
+T65	COUNTRY 1313 1323	Португалии
+T66	PROFESSION 6 18	генсеком ООН
+T67	ORGANIZATION 108 130	Совет Безопасности ООН
+T68	PROFESSION 184 200	премьер-министра
+T69	PROFESSION 238 249	генсека ООН
+T70	ORGANIZATION 366 391	Генеральную Ассамблею ООН
+T40	PROFESSION 706 731	генеральный секретарь ООН
+T41	PROFESSION 1288 1323	государственный советник Португалии
+T71	PROFESSION 1223 1263	Верховный комиссар ООН по делам беженцев
+T61	PROFESSION 1184 1207	председатель Социнтерна
+T62	PROFESSION 1124 1164	премьер-министр Португальской республики
+T72	COUNTRY 1140 1153	Португальской
+T73	COUNTRY 1075 1085	Португалии
+T74	ORGANIZATION 1051 1074	Социалистической партии
+T27	ORDINAL 658 665	первого
+T43	PROFESSION 666 677	генсека ООН
+T75	PROFESSION 184 211	премьер-министра Португалии
+T76	PROFESSION 265 288	постпред России при ООН
+T77	PROFESSION 1029 1085	генеральный секретарь Социалистической партии Португалии
+T78	EVENT 732 758	заступит на свою должность
+T79	EVENT 806 823	сложит полномочия
+T80	IDEOLOGY 1051 1067	Социалистической

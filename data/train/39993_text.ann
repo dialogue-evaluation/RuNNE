@@ -1,0 +1,70 @@
+T1	PROFESSION 0 6	Принца
+T2	PERSON 29 49	Джордж Александр Луи
+T3	PERSON 65 78	Кейт Миддлтон
+T5	DATE 79 96	24 июля 2013 года
+T6	DATE 99 119	на второй день жизни
+T7	PROFESSION 184 191;204 216	герцога Кембриджских
+T8	PERSON 227 231	Кейт
+T9	PROFESSION 275 283	королевы
+T10	PERSON 299 311	Елизаветы II
+T11	PERSON 325 345	Джордж Александр Луи
+T12	PERSON 347 369	George Alexander Louis
+T13	PROFESSION 373 382	Герцогиня
+T16	PERSON 485 492	St Mary
+T17	CITY 507 514	Лондоне
+T18	DATE 576 593	На следующий день
+T19	ORDINAL 675 681	третий
+T20	COUNTRY 707 718	британского
+T22	PERSON 770 777	Уильяма
+T23	AGE 780 789	31-летние
+T24	PERSON 817 821	Кейт
+T25	DATE 829 840	с 2011 года
+T27	PROFESSION 0 20	Принца Кембриджского
+T28	CITY 7 20	Кембриджского
+T29	PERSON 56 62	Уильям
+T30	PROFESSION 50 55	Принц
+T4	PROFESSION 141 161	Принца Кембриджского
+T32	CITY 148 161	Кембриджского
+T33	PROFESSION 141 147	Принца
+T34	PROFESSION 194 203	герцогини
+T36	PROFESSION 194 216	герцогини Кембриджских
+T37	PERSON 217 224	Уильяма
+T38	PROFESSION 239 255	принца Уэльского
+T31	STATE_OR_PROVINCE 246 255	Уэльского
+T39	PROFESSION 239 245	принца
+T40	PERSON 256 263	Чарльза
+T41	PROFESSION 275 298	королевы Великобритании
+T42	COUNTRY 284 298	Великобритании
+T43	ORDINAL 309 311	II
+T44	PROFESSION 373 395	Герцогиня Кембриджская
+T45	CITY 383 395	Кембриджская
+T46	EVENT 396 402	родила
+T47	EVENT 447 451	Роды
+T15	PERSON 471 483	Святой Марии
+T48	LOCATION 533 538	Линдо
+T49	PROFESSION 553 559	принцы
+T50	PERSON 560 566	Уильям
+T51	PERSON 569 574	Гарри
+T53	PROFESSION 647 652	Принц
+T57	CITY 661 673	Кембриджский
+T58	PERSON 753 760	Чарльза
+T59	PROFESSION 746 752	принца
+T21	PROFESSION 790 795	Принц
+T60	PERSON 796 802	Уильям
+T61	EVENT 851 867	стали родителями
+T62	ORDINAL 843 850	впервые
+T63	PROFESSION 884 906	герцогини Кембриджской
+T64	CITY 894 906	Кембриджской
+T65	PROFESSION 884 893	герцогини
+T66	ORGANIZATION 461 483	госпитале Святой Марии
+T67	ORGANIZATION 485 503	St Mary's Hospital
+T35	PROFESSION 184 191	герцога
+T68	CITY 204 216	Кембриджских
+T14	DATE 412 445	в понедельник — 22 июля 2013 года
+T69	EVENT 544 552	родились
+T70	EVENT 597 617	выписали из больницы
+T52	PERSON 654 660	Джордж
+T54	PROFESSION 647 673	Принц 'Джордж Кембриджский
+T55	PROFESSION 620 673	Его Королевское Высочество Принц 'Джордж Кембриджский
+T26	DATE 922 941	в декабре 2012 года
+T71	PROFESSION 697 727	наследник британского престола

@@ -1,0 +1,24 @@
+T2	PERSON 13 23	Мии Фэрроу
+T3	COUNTRY 53 63	Британский
+T4	ORGANIZATION 71 79	BBC News
+T5	PROFESSION 133 139	Артист
+T6	PERSON 140 153	Патрик Фэрроу
+T7	AGE 179 189	66-летнего
+T8	PERSON 190 204	Патрика Фэрроу
+T10	CITY 244 252	Каслтоне
+T11	STATE_OR_PROVINCE 259 266	Вермонт
+T12	ORGANIZATION 323 334	полиции США
+T13	PROFESSION 448 456	Менеджер
+T14	PERSON 457 467	Мии Фэрроу
+T15	PERSON 635 648	Патрик Фэрроу
+T16	PROFESSION 5 12	актрисы
+T17	DATE 123 131	накануне
+T9	TIME 267 286	в понедельник ночью
+T18	DATE 267 280	в понедельник
+T19	COUNTRY 331 334	США
+T20	ORGANIZATION 349 357	полицией
+T21	EVENT 24 52	покончил жизнь самоубийством
+T22	EVENT 294 300	смерть
+T23	EVENT 158 172	найден мертвым
+T24	ORGANIZATION 323 330	полиции
+T1	EVENT 433 445	самоубийстве

@@ -1,0 +1,39 @@
+T1	PERSON 5 17	Барака Обамы
+T2	ORGANIZATION 34 58	Гарвардском университете
+T3	PERSON 72 77	Малия
+T4	PERSON 79 85	Мишель
+T5	PERSON 87 92	Барак
+T6	PERSON 94 98	Саша
+T7	PERSON 100 106	Наташа
+T8	PROFESSION 121 131	президента
+T9	DATE 159 167	годичный
+T10	DATE 210 221	в 2017 году
+T11	ORGANIZATION 251 275	Гарвардском университете
+T12	ORGANIZATION 290 301	Белого дома
+T13	DATE 314 344	в воскресенье, 1 мая 2016 года
+T14	PROFESSION 357 366	Президент
+T15	PERSON 377 382	Обама
+T16	PERSON 413 418	Малия
+T17	ORGANIZATION 436 460	Гарвардском университете
+T18	DATE 496 505	2021 года
+T19	PERSON 507 512	Малия
+T20	DATE 521 529	годичный
+T21	AGE 567 576	17-летняя
+T22	CITY 609 622	вашингтонской
+T23	ORGANIZATION 637 652	Sidwell Friends
+T24	AGE 673 682	14-летняя
+T25	PERSON 683 687	Саша
+T26	PERSON 689 695	Наташа
+T27	EVENT 717 722	ужине
+T28	ORGANIZATION 745 755	Белом доме
+T29	CITY 826 836	Вашингтоне
+T30	DATE 874 890	в следующем году
+T31	PERSON 898 902	Саша
+T32	FAMILY 59 70	Семья Обама
+T33	PERSON 132 144	Барака Обамы
+T34	PERSON 145 150	Малия
+T35	DATE 461 477	осенью 2017 года
+T36	PERSON 577 582	Малия
+T37	PROFESSION 766 775	президент
+T38	PERSON 776 781	Обама
+T39	PROFESSION 727 742	корреспондентов

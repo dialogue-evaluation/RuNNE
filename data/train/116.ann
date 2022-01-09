@@ -1,0 +1,61 @@
+T2	LOCATION 24 30	Европы
+T3	PROFESSION 38 71	министром торговли Великобритании
+T4	PERSON 73 84	Стивен Грин
+T5	PROFESSION 86 127	председатель совета директоров банка HSBC
+T6	ORGANIZATION 123 127	HSBC
+T7	PROFESSION 144 162	министром торговли
+T8	ORGANIZATION 212 219	Reuters
+T9	PERSON 259 264	Грина
+T10	DATE 288 298	во вторник
+T11	AGE 301 310	62-летний
+T12	PERSON 311 315	Грин
+T13	ORGANIZATION 333 337	HSBC
+T14	DATE 351 362	В 2003 году
+T15	PROFESSION 387 399	гендиректора
+T16	DATE 409 420	в 2006 году
+T17	PROFESSION 423 453	председателя совета директоров
+T18	PERSON 474 479	Грина
+T19	ORGANIZATION 491 495	HSBC
+T20	DATE 515 531	До мая 2010 года
+T21	PROFESSION 537 569	министра торговли Великобритании
+T22	ORGANIZATION 572 597	правительстве лейбористов
+T23	PERSON 606 618	Мервин Дэвис
+T24	PROFESSION 627 681	председатель совета директоров Standard Chartered bank
+T25	ORGANIZATION 658 681	Standard Chartered bank
+T26	ORGANIZATION 683 709	Коалиционное правительство
+T28	PERSON 819 825	Дэвису
+T29	ORGANIZATION 907 911	HSBC
+T30	LOCATION 931 937	Европе
+T31	COUNTRY 970 980	британских
+T32	ORGANIZATION 1082 1104	Royal Bank of Scotland
+T33	ORGANIZATION 1107 1116	Lloyd TSB
+T1	COUNTRY 57 71	Великобритании
+T34	ORGANIZATION 99 127	совета директоров банка HSBC
+T35	ORGANIZATION 165 193	правительстве Великобритании
+T36	COUNTRY 179 193	Великобритании
+T37	DATE 338 349	в 1992 году
+T38	PROFESSION 363 375	топ-менеджер
+T40	COUNTRY 555 569	Великобритании
+T41	IDEOLOGY 586 597	лейбористов
+T42	ORGANIZATION 640 681	совета директоров Standard Chartered bank
+T44	COUNTRY 710 720	британских
+T45	IDEOLOGY 721 734	консерваторов
+T46	IDEOLOGY 737 748	либеральных
+T27	IDEOLOGY 749 759	демократов
+T47	IDEOLOGY 737 759	либеральных демократов
+T48	IDEOLOGY 771 782	лейбористов
+T49	PROFESSION 837 847	бизнесмены
+T51	PROFESSION 86 116	председатель совета директоров
+T52	PROFESSION 144 153	министром
+T53	PROFESSION 387 405	гендиректора банка
+T54	PROFESSION 537 554	министра торговли
+T43	PROFESSION 627 657	председатель совета директоров
+T55	ORGANIZATION 165 178	правительстве
+T56	PROFESSION 38 56	министром торговли
+T57	PROFESSION 0 30	Глава крупнейшего банка Европы
+T58	EVENT 135 143	назначен
+T59	EVENT 250 258	отставке
+T60	PROFESSION 537 545	министра
+T61	ORGANIZATION 572 585	правительстве
+T62	STATE_OR_PROVINCE 1096 1104	Scotland
+T63	PROFESSION 38 47	министром

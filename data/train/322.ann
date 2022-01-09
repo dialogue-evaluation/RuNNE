@@ -1,0 +1,49 @@
+T2	PERSON 0 8	К.Лагард
+T3	PROFESSION 38 47	главы МВФ
+T4	PERSON 61 75	Кристин Лагард
+T5	DATE 87 94	28 июня
+T7	PROFESSION 101 132	директором - распорядителем МВФ
+T8	DATE 134 152	с сегодняшнего дня
+T9	ORDINAL 195 201	первой
+T11	PERSON 250 258	К.Лагард
+T12	PROFESSION 278 295	министра финансов
+T13	AGE 306 315	55-летняя
+T15	PERSON 316 324	К.Лагард
+T16	PROFESSION 335 345	главой МВФ
+T17	DATE 349 359	пятилетний
+T18	DATE 428 433	в мае
+T19	PROFESSION 442 459	управляющий фонда
+T20	PERSON 460 478	Доминик Стросс-Кан
+T21	NATIONALITY 486 493	француз
+T22	CITY 541 554	нью-йоркского
+T24	PERSON 627 635	К.Лагард
+T25	PROFESSION 661 699	управляющий Центральным банком Мексики
+T26	PERSON 700 716	Агустин Карстенс
+T27	ORGANIZATION 785 788	МВФ
+T28	NATIONALITY 806 814	европеец
+T30	PERSON 847 855	К.Лагард
+T31	ORGANIZATION 867 870	МВФ
+T32	COUNTRY 941 947	Греции
+T33	LOCATION 950 958	еврозоны
+T34	NATIONALITY 968 979	Француженка
+T35	PROFESSION 1052 1069	министра финансов
+T36	NUMBER 1189 1192	187
+T1	ORGANIZATION 44 47	МВФ
+T37	NATIONALITY 49 60	Француженка
+T6	ORGANIZATION 129 132	МВФ
+T10	COUNTRY 296 303	Франции
+T38	PROFESSION 278 303	министра финансов Франции
+T14	ORGANIZATION 342 345	МВФ
+T39	PROFESSION 380 398	руководителя фонда
+T23	PROFESSION 647 656	главы МВФ
+T40	ORGANIZATION 653 656	МВФ
+T41	ORGANIZATION 673 699	Центральным банком Мексики
+T42	COUNTRY 692 699	Мексики
+T29	LOCATION 1285 1293	западных
+T43	EVENT 77 86	избранная
+T44	EVENT 325 334	назначена
+T45	CRIME 509 530	попытке изнасилования
+T46	EVENT 499 506	обвинен
+T47	EVENT 570 578	отставку
+T48	PROFESSION 278 286	министра
+T49	EVENT 856 866	возглавила

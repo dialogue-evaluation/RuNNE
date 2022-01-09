@@ -1,0 +1,43 @@
+T2	AGE 0 6	15 лет
+T3	PERSON 17 32	Павел Кострикин
+T6	ORGANIZATION 87 96	Геометрия
+T7	TIME 98 136	В 18:00 в пятницу, 9 декабря 2016 года
+T8	DATE 106 136	в пятницу, 9 декабря 2016 года
+T9	COUNTRY 150 160	российская
+T10	ORGANIZATION 189 198	Геометрия
+T11	AGE 213 228	пятнадцатилетие
+T12	ORGANIZATION 238 242	Шаги
+T13	CITY 246 252	Москве
+T14	ORGANIZATION 293 307	Вежливый Отказ
+T15	ORGANIZATION 309 317	Ива Нова
+T16	ORGANIZATION 319 331	Контора Кука
+T17	ORGANIZATION 333 338	Выход
+T18	ORGANIZATION 341 347	Хроноп
+T19	TIME 376 386	пять часов
+T20	PERSON 477 492	Вадим Степанцов
+T21	ORGANIZATION 494 506	Бахыт-Компот
+T22	COUNTRY 619 625	России
+T23	ORGANIZATION 670 679	Геометрия
+T24	DATE 691 710	6 декабря 2001 года
+T25	CITY 713 719	Москве
+T28	PERSON 755 770	Павел Кострикин
+T29	PROFESSION 774 784	продюсером
+T30	PERSON 787 801	Вадим Ульянкин
+T31	ORGANIZATION 812 821	Геометрии
+T32	PERSON 860 876	Леонида Фёдорова
+T33	WORK_OF_ART 878 890	Лиловый день
+T34	ORGANIZATION 940 948	АукцЫона
+T35	ORGANIZATION 974 983	Геометрия
+T36	NUMBER 994 1003	около ста
+T37	NATIONALITY 1031 1041	российских
+T1	ORGANIZATION 7 16	Геометрии
+T4	PROFESSION 557 566	музыканты
+T38	PROFESSION 586 605	музыкальные критики
+T39	PROFESSION 608 618	журналисты
+T40	COUNTRY 628 638	Российский
+T41	PROFESSION 1042 1052	музыкантов
+T5	PROFESSION 47 96	руководитель музыкального издательства «Геометрия
+T26	EVENT 200 228	отметит своё пятнадцатилетие
+T27	EVENT 258 276	юбилейном концерте
+T42	PROFESSION 453 469	ведущим концерта
+T43	PROFESSION 739 749	директором

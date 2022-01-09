@@ -1,0 +1,17 @@
+T1	COUNTRY 2 5	КНР
+T2	PRODUCT 48 54	iPhone
+T3	AGE 56 65	23-летнюю
+T4	COUNTRY 77 82	Китая
+T5	DISTRICT 86 124	Синьцзян-Уйгурского автономного района
+T6	PERSON 125 135	Ма Ай Лунь
+T7	NATIONALITY 149 157	Китаянка
+T8	PRODUCT 210 216	iPhone
+T9	NATIONALITY 428 436	китаянки
+T10	ORGANIZATION 491 496	Apple
+T11	EVENT 14 25	убило током
+T12	EVENT 136 147	убило током
+T13	EVENT 158 165	погибла
+T14	ORGANIZATION 264 271	полиция
+T15	EVENT 289 295	гибель
+T16	ORGANIZATION 369 394	правоохранительные органы
+T17	EVENT 421 427	гибели

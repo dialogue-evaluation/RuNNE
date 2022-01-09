@@ -1,0 +1,35 @@
+T1	ORGANIZATION 0 7	Полиция
+T2	STATE_OR_PROVINCE 68 75	Алабама
+T3	LOCATION 79 86	юге США
+T4	AGE 131 140	65-летний
+T5	AGE 169 178	5-летнего
+T6	PROFESSION 225 233	водитель
+T7	PERSON 247 262	Джимми Ли Дайкс
+T8	PERSON 273 278	Дайкс
+T9	PROFESSION 328 336	водителя
+T10	DATE 364 382	почти целую неделю
+T12	CITY 484 489	Мобил
+T13	STATE_OR_PROVINCE 496 503	Алабама
+T14	DATE 629 642	В понедельник
+T15	DATE 911 920	6 февраля
+T16	ORGANIZATION 0 11	Полиция США
+T17	EVENT 12 42	освободила похищенного ребёнка
+T18	COUNTRY 83 86	США
+T19	PROFESSION 87 98	полицейские
+T20	PROFESSION 225 246	водитель-дальнобойщик
+T21	PROFESSION 234 246	дальнобойщик
+T22	EVENT 279 294	похитил ребенка
+T23	PROFESSION 385 395	Агенты ФБР
+T24	ORGANIZATION 392 395	ФБР
+T25	CITY 43 48	Мобил
+T26	PROFESSION 563 577	сотрудники ФБР
+T27	ORGANIZATION 574 577	ФБР
+T28	PROFESSION 643 654	полицейские
+T29	EVENT 678 696	освободили ребенка
+T30	EVENT 896 908	дня рождения
+T31	COUNTRY 8 11	США
+T32	EVENT 99 106	штурмом
+T33	EVENT 318 327	застрелив
+T34	EVENT 655 662	штурмом
+T35	EVENT 851 872	освобождение мальчика
+T36	EVENT 191 210	освободили пленника

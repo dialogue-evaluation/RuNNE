@@ -1,0 +1,38 @@
+T1	FACILITY 0 24	Квартира Маргарет Тэтчер
+T2	PERSON 9 24	Маргарет Тэтчер
+T3	CITY 49 56	Лондоне
+T4	PERSON 58 73	Маргарет Тэтчер
+T5	FACILITY 74 138	Квартира бывшего премьер-министра Великобритании Маргарет Тэтчер
+T6	PROFESSION 91 122	премьер-министра Великобритании
+T7	COUNTRY 108 122	Великобритании
+T8	PERSON 123 138	Маргарет Тэтчер
+T9	DISTRICT 148 153	Челси
+T10	CITY 156 163	Лондоне
+T11	MONEY 189 197	£1,2 млн
+T12	PERSON 220 228	Маргарет
+T13	PERSON 242 247	Денис
+T14	DATE 254 268	в 1950-х годах
+T16	PROFESSION 284 299	премьер-министр
+T17	PROFESSION 309 318	адвокатом
+T18	PERSON 410 416	Тэтчер
+T19	CITY 475 481	Лондон
+T20	ORDINAL 523 529	шестом
+T23	NUMBER 578 584	четыре
+T24	NUMBER 594 597	две
+T26	ORGANIZATION 663 678	Strutt & Parker
+T27	DATE 730 740	на 24 года
+T28	DATE 823 843	23 февраля 2017 года
+T29	FACILITY 875 891	виллу в Германии
+T30	COUNTRY 883 891	Германии
+T31	PROFESSION 919 933	президент СССР
+T32	COUNTRY 929 933	СССР
+T33	PERSON 934 949	Михаил Горбачёв
+T34	ORGANIZATION 970 989	Süddeutsche Zeitung
+T36	MONEY 1022 1046	несколько миллионов евро
+T15	PROFESSION 776 785	риэлторов
+T21	PROFESSION 919 928	президент
+T22	PROFESSION 91 107	премьер-министра
+T25	LOCATION 970 981	Süddeutsche
+T35	EVENT 39 46	продажу
+T37	EVENT 178 185	продажу
+T38	EVENT 895 902	продажу

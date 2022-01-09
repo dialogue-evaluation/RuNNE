@@ -1,0 +1,63 @@
+T1	PERSON 8 19	Пан Ги Муна
+T2	PROFESSION 29 41	генсеком ООН
+T3	ORDINAL 45 51	второй
+T4	NUMBER 109 112	192
+T5	ORGANIZATION 119 140	Генеральной Ассамблеи
+T6	PERSON 181 192	Пан Ги Муна
+T7	PROFESSION 193 246	генеральным секретарём Организации Объединённых Наций
+T8	ORGANIZATION 248 251	ООН
+T9	ORGANIZATION 263 266	РБК
+T10	PROFESSION 268 276	Дипломат
+T11	COUNTRY 280 291	Южной Кореи
+T12	ORGANIZATION 302 305	ООН
+T13	ORDINAL 309 315	второй
+T14	DATE 334 355	на следующие пять лет
+T15	AGE 356 365	67-летний
+T16	DATE 382 400	1 января 2012 года
+T17	DATE 403 426	Несколькими днями ранее
+T18	PERSON 427 437	Пан Ги Мун
+T19	ORGANIZATION 450 460	Совбез ООН
+T20	ORDINAL 494 500	второй
+T21	DATE 663 669	неделе
+T22	PROFESSION 670 715	директор Департамента информации и печати МИД
+T23	ORGANIZATION 712 722	МИД России
+T24	PERSON 723 742	Александр Лукашевич
+T25	COUNTRY 762 768	России
+T26	PERSON 792 803	Пан Ги Муна
+T27	CITY 851 857	Москву
+T28	DATE 858 881	в апреле нынешнего года
+T29	PROFESSION 947 973	генерального секретаря ООН
+T30	PROFESSION 988 997	президент
+T31	PERSON 1001 1017	Дмитрий Медведев
+T32	PROFESSION 1020 1045	Генеральный секретарь ООН
+T33	ORGANIZATION 1058 1080	Генеральной Ассамблеей
+T34	ORGANIZATION 1109 1128	Совета Безопасности
+T35	DATE 1129 1140	на пять лет
+T36	ORGANIZATION 1289 1296	Совбеза
+T37	COUNTRY 1313 1327	Великобритания
+T38	COUNTRY 1329 1334	Китай
+T39	COUNTRY 1336 1342	Россия
+T40	COUNTRY 1344 1347	США
+T41	COUNTRY 1350 1357	Франция
+T42	ORGANIZATION 38 41	ООН
+T43	ORGANIZATION 100 103	ООН
+T44	ORGANIZATION 1042 1045	ООН
+T45	COUNTRY 882 895	южнокорейский
+T46	PROFESSION 896 904	дипломат
+T47	ORGANIZATION 970 973	ООН
+T49	ORGANIZATION 216 246	Организации Объединённых Наций
+T50	PROFESSION 366 373	политик
+T51	ORGANIZATION 457 460	ООН
+T52	EVENT 152 180	проголосовали за утверждение
+T54	PROFESSION 29 37	генсеком
+T55	PROFESSION 193 215	генеральным секретарём
+T53	ORGANIZATION 450 456	Совбез
+T56	PROFESSION 947 969	генерального секретаря
+T48	PROFESSION 1020 1041	Генеральный секретарь
+T57	PROFESSION 988 1000	президент РФ
+T58	COUNTRY 998 1000	РФ
+T59	ORGANIZATION 679 722	Департамента информации и печати МИД России
+T60	COUNTRY 716 722	России
+T61	ORGANIZATION 712 715	МИД
+T62	EVENT 842 848	визита
+T63	EVENT 292 301	возглавит

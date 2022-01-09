@@ -1,0 +1,50 @@
+T1	COUNTRY 2 8	Египте
+T3	ORGANIZATION 26 43	Братьев-мусульман
+T4	PERSON 45 58	Мухаммед Бади
+T5	PERSON 60 74	Mohammed Badie
+T6	COUNTRY 76 86	Египетские
+T8	ORGANIZATION 126 143	Братья-мусульмане
+T9	PERSON 145 158	Мухаммед Бади
+T10	PERSON 160 174	Mohammed Badie
+T12	COUNTRY 248 254	Египта
+T13	AGE 257 266	70-летний
+T14	PERSON 267 271	Бади
+T16	DISTRICT 317 326	Наср-Сити
+T17	LOCATION 330 350	северо-востоке Каира
+T18	ORGANIZATION 520 523	МВД
+T19	PRODUCT 533 541	Facebook
+T20	PERSON 566 570	Бади
+T21	PROFESSION 583 607	лидер «Братьев-мусульман
+T22	ORGANIZATION 590 607	Братьев-мусульман
+T23	NUMBER 660 665	двумя
+T24	COUNTRY 745 748	США
+T25	COUNTRY 758 764	Египет
+T26	ORGANIZATION 779 796	Братьев-мусульман
+T28	AGE 811 820	85-летней
+T29	DATE 913 935	С 14 августа 2013 года
+T30	ORGANIZATION 979 996	Братьев-мусульман
+T31	CITY 1000 1005	Каире
+T32	NUMBER 1027 1036	около 900
+T35	EVENT 9 18	арестован
+T36	PROFESSION 19 43	лидер «Братьев-мусульман
+T37	EVENT 98 108	арестовали
+T38	EVENT 276 284	задержан
+T15	CITY 345 350	Каира
+T39	EVENT 354 364	Задержание
+T41	ORGANIZATION 520 530	МВД Египта
+T42	COUNTRY 524 530	Египта
+T43	EVENT 737 742	арест
+T33	PROFESSION 1068 1082	военнослужащих
+T44	PROFESSION 1085 1096	полицейских
+T34	NUMBER 1058 1067	более 100
+T7	PROFESSION 109 144	лидера движения «Братья-мусульмане»
+T2	ORGANIZATION 76 97	Египетские спецслужбы
+T45	EVENT 950 977	разогнали палаточные лагеря
+T27	EVENT 1021 1044	убиты около 900 человек
+T11	DATE 185 217	во вторник, 20 августа 2013 года
+T40	RELIGION 34 43	мусульман
+T46	RELIGION 133 143	мусульмане
+T47	RELIGION 598 607	мусульман
+T48	RELIGION 786 796	-мусульман
+T49	RELIGION 987 996	мусульман
+T50	EVENT 1021 1026	убиты

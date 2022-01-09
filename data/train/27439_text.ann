@@ -1,0 +1,62 @@
+T2	PERSON 28 35	Норьеги
+T3	LOCATION 58 64	Боедик
+T4	LOCATION 66 72	Boëdic
+T5	COUNTRY 74 85	Французский
+T6	PERSON 94 108	Оливье Метцнер
+T8	PERSON 186 201	Мануэль Норьега
+T10	PERSON 223 241	Доминик де Вильпен
+T11	COUNTRY 244 254	российский
+T12	PERSON 263 278	Роман Абрамович
+T13	PERSON 300 308	Метцнеру
+T14	AGE 314 321	63 года
+T15	LOCATION 416 422	Боедик
+T16	LOCATION 424 430	Boëdic
+T17	STATE_OR_PROVINCE 442 449	Бретани
+T18	PERSON 610 617	Метцнер
+T19	ORGANIZATION 885 905	Continental Airlines
+T20	PRODUCT 935 943	Concorde
+T21	DATE 944 955	в 2000 году
+T23	PERSON 1101 1108	Метцнер
+T24	PERSON 1130 1147	Романа Абрамовича
+T25	FACILITY 1218 1222	Кроэ
+T26	LOCATION 1226 1241	Лазурном берегу
+T27	PROFESSION 1244 1251	Адвокат
+T29	PROFESSION 1307 1315	премьера
+T30	PERSON 1316 1336	Доминика де Вильпена
+T31	PROFESSION 1387 1397	президента
+T32	PERSON 1415 1422	Метцнер
+T33	PROFESSION 7 14	адвокат
+T35	PROFESSION 7 25	адвокат Абрамовича
+T36	PERSON 15 25	Абрамовича
+T37	PROFESSION 86 93	адвокат
+T39	PROFESSION 170 185	диктатор Панамы
+T40	PROFESSION 170 178	диктатор
+T41	COUNTRY 179 185	Панамы
+T43	PROFESSION 207 222	премьер Франции
+T44	PROFESSION 207 214	премьер
+T45	COUNTRY 215 222	Франции
+T46	ORGANIZATION 324 331	Полиция
+T47	EVENT 520 526	смерти
+T48	PROFESSION 555 566	полицейские
+T49	EVENT 594 607	самоубийством
+T50	CRIME 844 869	непреднамеренном убийстве
+T51	CRIME 861 869	убийстве
+T52	EVENT 916 926	катастрофе
+T53	PROFESSION 1008 1028	панамского диктатора
+T54	PROFESSION 1019 1028	диктатора
+T55	COUNTRY 1008 1018	панамского
+T56	PERSON 1029 1036	Норьеги
+T58	CRIME 1083 1098	отмывании денег
+T59	CRIME 1058 1080	контрабанде наркотиков
+T60	ORGANIZATION 1155 1162	полиция
+T62	PROFESSION 1294 1315	французского премьера
+T63	COUNTRY 1294 1306	французского
+T64	CRIME 1359 1397	попытке опорочить репутацию президента
+T65	PERSON 1398 1412	Николя Саркози
+T1	EVENT 36 50	найден мёртвым
+T7	PROFESSION 255 262	олигарх
+T9	EVENT 284 298	найден мёртвым
+T22	PROFESSION 629 640	адвокатскую
+T28	EVENT 989 999	оправдания
+T34	EVENT 825 841	снятия обвинений
+T38	EVENT 350 367	тело было найдено

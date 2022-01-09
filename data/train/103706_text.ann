@@ -1,0 +1,27 @@
+T1	PERSON 0 11	Мик Джаггер
+T2	ORDINAL 27 34	восьмой
+T3	PERSON 40 51	Мик Джаггер
+T5	DATE 68 81	в этом месяце
+T6	AGE 90 92	73
+T7	PROFESSION 132 138	Cолист
+T8	ORGANIZATION 150 164	Rolling Stones
+T9	PERSON 165 176	Мик Джаггер
+T10	ORDINAL 185 192	восьмой
+T11	AGE 251 257	73 лет
+T12	PROFESSION 260 275	Пресс-секретарь
+T13	DATE 283 311	в пятницу, 15 июля 2016 года
+T14	PERSON 361 369	Джаггера
+T15	AGE 371 380	29-летней
+T16	NATIONALITY 381 393	американской
+T17	PROFESSION 394 402	балерины
+T18	PERSON 403 416	Мелани Хэмрик
+T19	PERSON 421 429	Джаггера
+T20	DATE 440 457	26 июля 2016 года
+T21	AGE 469 476	73 года
+T22	NUMBER 487 493	семеро
+T23	DATE 503 514	в 2014 году
+T4	PROFESSION 52 57	Рокер
+T24	PROFESSION 108 116	балерина
+T25	PROFESSION 260 282	Пресс-секретарь группы
+T26	EVENT 12 24	станет отцом
+T27	EVENT 197 209	станет отцом

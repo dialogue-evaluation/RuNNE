@@ -1,0 +1,81 @@
+T1	PERSON 0 12	Марина Голуб
+T2	TIME 54 63	В полночь
+T3	FACILITY 79 100	проспекта Вернадского
+T4	FACILITY 103 121	улицы Лобачевского
+T5	CITY 124 130	Москве
+T6	PROFESSION 162 169	актриса
+T7	PERSON 184 196	Марина Голуб
+T8	ORGANIZATION 201 236	департаменте здравоохранения Москвы
+T9	PERSON 276 288	Марина Голуб
+T10	FACILITY 441 469	7-й подстанции скорой помощи
+T11	TIME 470 487	через шесть минут
+T12	PERSON 542 554	Марина Голуб
+T13	DATE 584 595	18 сентября
+T14	LOCATION 615 632	Тверском бульваре
+T15	PRODUCT 654 665	Toyota RAV4
+T16	PRODUCT 693 700	Citroen
+T17	ORGANIZATION 748 784	пресс-службе ГУ МВД России по Москве
+T18	TIME 814 818	ночи
+T19	PERSON 850 855	Голуб
+T20	PRODUCT 943 950	Hyundai
+T21	PERSON 1037 1043	Марины
+T22	PERSON 1044 1058	Дмитрий Туркин
+T23	ORGANIZATION 1099 1111	Театру Наций
+T24	DATE 1143 1166	В декабре прошлого года
+T25	DATE 1226 1243	в марте нынешнего
+T29	PRODUCT 1413 1420	Hyundai
+T30	NUMBER 1443 1446	два
+T31	PERSON 1465 1470	Голуб
+T32	PRODUCT 1507 1510	KIA
+T33	PRODUCT 1514 1518	Лада
+T34	ORGANIZATION 1603 1606	МЧС
+T36	AGE 1627 1636	31-летний
+T37	PERSON 1637 1652	Алексей Русаков
+T38	NUMBER 1919 1921	50
+T39	NUMBER 1970 1972	10
+T40	NUMBER 1997 2002	шести
+T41	EVENT 13 20	погибла
+T42	EVENT 37 43	аварии
+T43	EVENT 147 153	аварии
+T44	PROFESSION 172 183	телеведущая
+T45	CITY 230 236	Москвы
+T46	EVENT 261 267	аварии
+T47	EVENT 268 275	погибли
+T48	PROFESSION 410 417	медиков
+T49	EVENT 435 438	ДТП
+T50	ORDINAL 441 444	7-й
+T52	EVENT 708 711	ДТП
+T53	ORGANIZATION 761 784	ГУ МВД России по Москве
+T55	ORGANIZATION 761 774	ГУ МВД России
+T56	ORGANIZATION 764 774	МВД России
+T57	ORGANIZATION 761 767	ГУ МВД
+T58	ORGANIZATION 764 767	МВД
+T59	COUNTRY 768 774	России
+T60	CITY 778 784	Москве
+T61	DATE 806 818	прошлой ночи
+T62	PROFESSION 1069 1076	актриса
+T63	CRIME 1183 1222	управлении автомобилем в нетрезвом виде
+T26	NUMBER 1283 1285	20
+T64	PENALTY 1246 1293	лишён водительского удостоверения на 20 месяцев
+T27	PRODUCT 1340 1347	Hyundai
+T28	PRODUCT 1360 1368	Cadillac
+T65	PRODUCT 1562 1569	Hyundai
+T66	PROFESSION 1593 1606	спасатели МЧС
+T67	PROFESSION 1593 1602	спасатели
+T35	PRODUCT 1618 1626	Cadillac
+T69	EVENT 23 43	автомобильной аварии
+T54	EVENT 133 153	автомобильной аварии
+T70	PERSON 109 121	Лобачевского
+T71	PERSON 89 100	Вернадского
+T72	EVENT 154 161	погибла
+T73	EVENT 605 611	аварию
+T74	PENALTY 1246 1279	лишён водительского удостоверения
+T68	CRIME 1878 1913	нарушения правил дорожного движения
+T75	CRIME 1940 1953	нарушение ПДД
+T76	PENALTY 1926 1936	штрафовали
+T51	EVENT 1370 1396	проехавший на красный свет
+T77	EVENT 1399 1412	протаранивший
+T78	EVENT 1493 1502	врезались
+T79	EVENT 1653 1681	с места преступления скрылся
+T80	EVENT 667 678	столкнулась
+T81	ORGANIZATION 654 660	Toyota

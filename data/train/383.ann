@@ -1,0 +1,32 @@
+T2	PERSON 5 13	С.Джобса
+T3	ORGANIZATION 33 38	Apple
+T4	PROFESSION 45 56	главы Apple
+T5	PERSON 57 69	Стива Джобса
+T6	ORGANIZATION 121 128	Reuters
+T7	PROFESSION 147 186	генерального директора корпорации Apple
+T8	ORGANIZATION 181 186	Apple
+T10	PERSON 187 195	С.Джобса
+T11	PERCENT 254 256	7%
+T12	MONEY 301 314	357,4 доллара
+T14	PERSON 317 324	С.Джобс
+T15	DATE 360 379	в среду, 24 августа
+T16	PROFESSION 421 443	генерального директора
+T17	PERSON 461 468	Тим Кук
+T19	PERSON 476 483	С.Джобс
+T20	ORGANIZATION 503 508	Apple
+T21	PROFESSION 522 552	председателя совета директоров
+T22	DATE 555 572	С середины января
+T23	AGE 573 582	56-летний
+T25	PERSON 583 590	С.Джобс
+T1	ORGANIZATION 51 56	Apple
+T9	ORGANIZATION 535 552	совета директоров
+T13	PROFESSION 147 169	генерального директора
+T18	EVENT 0 4	Уход
+T24	EVENT 21 32	обвал акций
+T27	EVENT 72 80	отставку
+T28	EVENT 88 110	падение акций компании
+T29	EVENT 210 228	покидает свой пост
+T30	EVENT 230 250	акции компании упали
+T31	EVENT 325 342	покинул свой пост
+T32	ORGANIZATION 444 449	Apple
+T33	PROFESSION 421 449	генерального директора Apple

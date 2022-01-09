@@ -1,0 +1,78 @@
+T1	PROFESSION 0 17	Главой Bundesbank
+T2	PROFESSION 25 72	советник канцлера ФРС по экономическим вопросам
+T4	PERSON 73 82	Й.Вайдман
+T5	PERSON 91 104	Акселя Вебера
+T6	ORGANIZATION 112 122	Bundesbank
+T7	ORGANIZATION 124 130	ЦБ ФРГ
+T8	PROFESSION 139 165	советник канцлера Германии
+T9	PERSON 166 180	Ангелы Меркель
+T11	PERSON 207 219	Йенс Вайдман
+T12	ORGANIZATION 238 245	Reuters
+T14	PERSON 305 314	Й.Вайдман
+T15	DATE 363 377	в апреле 2011г
+T17	PERSON 386 393	А.Вебер
+T18	PROFESSION 407 419	главы ЦБ ФРГ
+T19	AGE 430 439	42-летний
+T21	PERSON 440 449	Й.Вайдман
+T23	ORGANIZATION 480 521	ведомстве федерального канцлера А.Меркель
+T24	PROFESSION 529 555	вице-президента Bundesbank
+T26	ORGANIZATION 577 629	Федерального управления финансового надзора Германии
+T28	COUNTRY 621 629	Германии
+T29	PERSON 630 649	Сабина Лаутеншлегер
+T30	CITY 686 693	Берлине
+T31	DATE 706 722	11 февраля 2011г
+T32	COUNTRY 763 771	Германии
+T33	PERSON 772 786	Штефан Зайберт
+T34	PERSON 816 824	А.Вебера
+T35	PROFESSION 827 839	канцлера ФРГ
+T37	PERSON 840 849	А.Меркель
+T38	PROFESSION 864 880	глава Bundesbank
+T40	PERSON 881 888	А.Вебер
+T41	DATE 907 922	30 апреля 2011г
+T43	PERSON 934 944	Ш.Зайберта
+T45	PERSON 946 953	А.Вебер
+T47	PERSON 1029 1036	А.Вебер
+T48	PROFESSION 1093 1123	главы Европейского центробанка
+T49	ORGANIZATION 1099 1123	Европейского центробанка
+T50	ORGANIZATION 1125 1128	ЕЦБ
+T51	DATE 1146 1160	в ноябре 2011г
+T52	PROFESSION 1192 1210	председателя банка
+T53	PERSON 1211 1226	Жан-Клода Трише
+T55	PERSON 1277 1284	А.Вебер
+T56	PROFESSION 1310 1319	главы ЕЦБ
+T57	PROFESSION 1332 1344	главы ЦБ ФРГ
+T58	COUNTRY 1341 1344	ФРГ
+T59	PERSON 1364 1374	Ж.-К.Трише
+T61	PERSON 1430 1438	А.Вебера
+T62	ORGANIZATION 7 17	Bundesbank
+T63	PROFESSION 34 46	канцлера ФРС
+T3	COUNTRY 127 130	ФРГ
+T64	PROFESSION 148 165	канцлера Германии
+T10	ORGANIZATION 413 419	ЦБ ФРГ
+T13	COUNTRY 416 419	ФРГ
+T16	ORGANIZATION 460 521	отделом экономики в ведомстве федерального канцлера А.Меркель
+T20	PERSON 512 521	А.Меркель
+T22	ORGANIZATION 545 555	Bundesbank
+T25	COUNTRY 836 839	ФРГ
+T27	ORGANIZATION 870 880	Bundesbank
+T36	LOCATION 1099 1111	Европейского
+T39	ORGANIZATION 1316 1319	ЕЦБ
+T42	ORGANIZATION 1338 1344	ЦБ ФРГ
+T44	PROFESSION 105 122	главой Bundesbank
+T46	COUNTRY 157 165	Германии
+T54	EVENT 394 406	покинет пост
+T60	PROFESSION 529 544	вице-президента
+T65	EVENT 889 906	покинет свой пост
+T66	EVENT 808 815	встречи
+T67	ORGANIZATION 577 620	Федерального управления финансового надзора
+T68	PROFESSION 34 42	канцлера
+T70	ORGANIZATION 124 126	ЦБ
+T72	PROFESSION 148 156	канцлера
+T73	ORGANIZATION 413 415	ЦБ
+T74	PROFESSION 490 511	федерального канцлера
+T75	PROFESSION 503 511	канцлера
+T76	PROFESSION 827 835	канцлера
+T77	ORGANIZATION 1338 1340	ЦБ
+T78	COUNTRY 43 46	ФРС
+T79	EVENT 954 977	оставляет эту должность
+T80	ORGANIZATION 1112 1123	центробанка

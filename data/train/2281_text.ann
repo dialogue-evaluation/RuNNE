@@ -1,0 +1,45 @@
+T1	ORDINAL 0 9	Четвёртый
+T2	AGE 31 52	Тридцатичетырёхлетний
+T3	NATIONALITY 53 61	японский
+T4	PERSON 78 93	Дайсуке Эномото
+T5	PERSON 95 110	Daisuke Enomoto
+T6	ORDINAL 118 127	четвёртым
+T7	COUNTRY 167 179	американская
+T8	ORGANIZATION 187 203	Спейс адвентчерс
+T9	ORGANIZATION 206 222	Space Adventures
+T10	CITY 227 237	Арлингтона
+T11	STATE_OR_PROVINCE 244 253	Вирджиния
+T12	ORGANIZATION 262 278	Спейс адвентчерс
+T13	PERSON 338 345	Эномото
+T14	ORGANIZATION 490 522	Российском космическом агентстве
+T15	PERSON 620 627	Эномото
+T16	ORDINAL 635 641	первым
+T17	FACILITY 673 706	Международную космическую станцию
+T20	PERSON 726 733	Эномото
+T21	DATE 754 785	в сентябре текущего (2006) года
+T23	PRODUCT 798 809	Союз ТМА-9»
+T24	MONEY 863 879	20 млн. долларов
+T25	PERSON 893 908	Дайсуке Эномото
+T26	ORDINAL 933 940	седьмым
+T27	ORDINAL 978 984	вторым
+T28	COUNTRY 1034 1042	советско
+T29	COUNTRY 1043 1053	российском
+T30	PRODUCT 1063 1067	Союз
+T31	ORDINAL 1070 1076	Первым
+T32	COUNTRY 1077 1085	японским
+T33	PERSON 1103 1118	Тойехиро Акияма
+T34	DATE 1128 1147	в декабре 1990 года
+T35	DATE 1157 1171	восьмисуточный
+T36	PRODUCT 1190 1200	Союз ТМ-11
+T37	FACILITY 1214 1217	Мир
+T38	PROFESSION 62 77	предприниматель
+T39	COUNTRY 490 500	Российском
+T40	NATIONALITY 642 649	японцем
+T18	COUNTRY 941 949	японским
+T19	PROFESSION 950 961	космонавтом
+T22	PROFESSION 994 1005	космонавтом
+T41	PROFESSION 1086 1097	космонавтом
+T42	COUNTRY 985 993	японским
+T43	EVENT 1172 1177	полёт
+T44	EVENT 734 753	отправится в космос
+T45	NUMBER 807 808	9
