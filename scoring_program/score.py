@@ -36,6 +36,7 @@ class Evaluator:
             for i, (s, e, t) in enumerate(pred_example['ners'], 1):
                 if t not in self.ner_maps:
                     raise ValueError('{t} is unknown type name from line {i}'.format(t=t, i=i))
+        assert len(self.eval_data) == len(self.pred_data)
 
     def evaluate(self):
         tp, fn, fp = 0, 0, 0
