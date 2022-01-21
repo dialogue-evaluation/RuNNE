@@ -36,12 +36,22 @@ class Evaluator:
             for i, (s, e, t) in enumerate(pred_example['ners'], 1):
                 if t not in self.ner_maps:
                     raise ValueError('{t} is unknown type name from line {i}'.format(t=t, i=i))
-        assert len(self.eval_data) == len(self.pred_data)
+        if len(self.eval_data) != len(self.pred_data):
+            raise ValueError('number of lines in ground truth is not equal to number of lines in solution passed: ' + 
+                             '{} != {}'.format(len(self.eval_data), len(self.pred_data)))
+        eval_data_ids = set([each['id'] for each in self.eval_data])
+        pred_data_ids = set([each['id'] for each in self.pred_data])
+        if eval_data_ids != pred_data_ids:
+            raise ValueError(
+                "ids don't match. Difference: {}".format(eval_data_ids.symmetric_difference(pred_data_ids))
+            )
 
     def evaluate(self):
         tp, fn, fp = 0, 0, 0
         sub_tp, sub_fn, sub_fp = [0] * self.num_types, [0] * self.num_types, [0] * self.num_types
-        for gold_example, pred_example in zip(self.eval_data, self.pred_data):
+        id_to_ind = {each['id']: ind for ind, each in enumerate(self.pred_data)}
+        for gold_example in self.eval_data:
+            pred_example = self.pred_data[id_to_ind[gold_example['id']]]
             gold_ners = set([(s, e, self.ner_maps[t]) for s, e, t in gold_example['ners']])
             pred_ners = set([(s, e, self.ner_maps[t]) for s, e, t in pred_example['ners']])
             tp += len(gold_ners & pred_ners)
