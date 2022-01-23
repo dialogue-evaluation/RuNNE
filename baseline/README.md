@@ -31,6 +31,7 @@
 - `HuggingFace Transformers`
 - `HuggingFace Tokenizers`
 - `NLTK (+punkt)`
+- `tqdm`
 
 *** 
 
