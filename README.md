@@ -27,7 +27,8 @@
 * Участники могут самостоятельно разметить дополнительные данные в соответствии с опубликованными инструкциями. При этом, организаторы соревнования будут просить участников опубликовать новые размеченные данные в открытом доступе. 
 
 ## Полезные ссылки
-* Codalab: https://codalab.lisn.upsaclay.fr/competitions/1142
+* платформа для отладки: https://codalab.lisn.upsaclay.fr/competitions/1142 
+* платформа для тестирования: https://codalab.lisn.upsaclay.fr/competitions/1863 
 * Github: https://github.com/dialogue-evaluation/RuNNE
 * Tlg: t.me/deval_RuNNE
 
@@ -47,7 +48,3 @@
 * Елена Тутубалина (Sber AI, НИУ ВШЭ)
 
 1. Loukachevitch, Natalia, Ekaterina Artemova, Tatiana Batura, Pavel Braslavski, Ilia Denisov, Vladimir Ivanov, Suresh Manandhar, Alexander Pugachev, and Elena Tutubalina. "NEREL: A Russian Dataset with Nested Named Entities and Relations." In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021) (pp. 876-885). https://aclanthology.org/2021.ranlp-main.100.pdf
-
-
-
-
