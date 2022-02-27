@@ -1,0 +1,77 @@
+T1	ORGANIZATION 6 24	Второе приближение
+T2	PERSON 73 87	Петром Ившиным
+T3	ORGANIZATION 89 107	Второе приближение
+T5	DATE 135 144	13 ноября
+T6	ORGANIZATION 164 182	Второе приближение
+T8	WORK_OF_ART 212 221	Time Axis
+T9	CITY 232 242	московским
+T10	ORGANIZATION 243 256	ArtBeat Music
+T11	NUMBER 274 280	четыре
+T12	WORK_OF_ART 285 299	Selected Works
+T13	WORK_OF_ART 311 325	A Day For Dave
+T14	COUNTRY 339 352	американскому
+T15	PERSON 362 375	Дэйву Брубеку
+T16	WORK_OF_ART 380 388	Обэриуты
+T18	DATE 448 467	несколько лет назад
+T19	ORGANIZATION 520 539	Второго приближения
+T20	PROFESSION 543 548	лидер
+T21	PERSON 549 561	Андрей Разин
+T22	PERSON 587 601	Татьяна Комова
+T23	PERSON 623 638	Игорь Иванушкин
+T24	PERSON 703 715	Петра Ившина
+T25	PERSON 794 809	Клаусом Кугелем
+T26	PERSON 812 827	Владом Окуневым
+T27	ORGANIZATION 876 895	Второго приближения
+T28	AGE 910 918	XX-летию
+T29	DATE 940 950	15 октября
+T30	EVENT 954 967	гала-концерте
+T31	EVENT 1022 1052	Leo Records Festival in Russia
+T32	WORK_OF_ART 1083 1117	Сказки Пушкина или мартовские коты
+T33	PERSON 1150 1163	А. С. Пушкина
+T35	WORK_OF_ART 1165 1196	Царь Никита и сорок его дочерей
+T36	EVENT 1220 1228	концерте
+T37	DATE 1229 1239	17 октября
+T38	FACILITY 1242 1248	КЦ ДОМ
+T39	PERSON 1362 1378	Вячеслав Ганелин
+T40	PERSON 1394 1409	Алексей Круглов
+T41	PERSON 1434 1445	Олег Юданов
+T42	PROFESSION 1506 1515	журналист
+T43	PERSON 1516 1536	Михаил Митропольский
+T44	PERSON 1662 1672	Лео Фейгин
+T45	DATE 1747 1757	18 октября
+T46	CITY 1774 1785	Архангельск
+T47	EVENT 1801 1809	открытии
+T48	EVENT 1821 1830	Дни джаза
+T50	DATE 1857 1867	19 октября
+T51	CITY 1870 1880	московском
+T52	PERSON 2062 2076	Митропольского
+T55	EVENT 45 60	гастрольный тур
+T56	EVENT 61 70	концертом
+T4	PERSON 119 134	Алексея Козлова
+T57	FACILITY 113 134	Клубе Алексея Козлова
+T7	NUMBER 301 308	двойной
+T58	PROFESSION 353 361	пианисту
+T59	PROFESSION 416 429	саксофонистом
+T60	PERSON 430 447	Алексеем Козловым
+T61	EVENT 652 659	Концерт
+T62	PROFESSION 691 702	барабанщика
+T63	ORGANIZATION 747 751	Трио
+T64	EVENT 830 841	Выступление
+T65	EVENT 865 874	концертов
+T67	FACILITY 970 991	Клубе Алексея Козлова
+T68	PERSON 976 991	Алексея Козлова
+T34	PRODUCT 1205 1213	Викитеке
+T69	ORGANIZATION 1329 1348	Второму приближению
+T70	EVENT 1485 1493	концерта
+T71	EVENT 1686 1694	концерта
+T72	EVENT 1801 1830	открытии фестиваля «Дни джаза
+T49	FACILITY 1881 1895	музее Скрябина
+T73	PERSON 1887 1895	Скрябина
+T74	PROFESSION 1903 1912	музыканты
+T76	EVENT 1960 1967	концерт
+T77	ORGANIZATION 2023 2043	Второго приблиижения
+T53	WORK_OF_ART 2112 2116	Муха
+T78	WORK_OF_ART 2122 2131	Обериутов
+T17	COUNTRY 1046 1052	Russia
+T54	PERSON 1090 1097	Пушкина
+T79	PERSON 1170 1176	Никита

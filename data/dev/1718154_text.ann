@@ -1,0 +1,16 @@
+T1	PERSON 0 7	Мадонна
+T2	EVENT 68 79	Выступление
+T3	PERSON 80 87	Мадонны
+T4	DATE 89 109	16 февраля 2020 года
+T5	PERSON 121 128	Мадонна
+T6	DISEASE 196 206	SARS-CoV-2
+T7	AGE 209 218	61-летняя
+T8	DATE 243 252	в четверг
+T9	PRODUCT 261 270	Instagram
+T12	PERSON 399 406	Мадонна
+T13	PROFESSION 219 225	певица
+T10	NUMBER 320 322	14
+T11	DISEASE 43 57	коронавирусным
+T14	DISEASE 183 206	коронавирусу SARS-CoV-2
+T15	WORK_OF_ART 297 322	Карантинные дневники № 14
+T16	DISEASE 580 594	коронавирусным

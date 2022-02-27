@@ -1,0 +1,56 @@
+T1	PERSON 0 9	Морриконе
+T2	PERSON 41 50	Тарантино
+T3	ORGANIZATION 52 67	Playboy Germany
+T4	PERSON 98 115	Квентин Тарантино
+T6	ORGANIZATION 147 162	Playboy Germany
+T7	PROFESSION 174 185	композитора
+T8	PERSON 186 201	Эннио Морриконе
+T9	PROFESSION 234 243	режиссере
+T10	PERSON 244 262	Квентине Тарантино
+T11	AGE 265 274	90-летний
+T12	PERSON 305 314	Тарантино
+T13	DATE 458 483	в течение нескольких дней
+T14	PERSON 723 735	Джон Хьюстон
+T15	PERSON 737 751	Альфред Хичкок
+T16	PERSON 756 769	Билли Уайлдер
+T17	PERSON 788 797	Тарантино
+T18	AWARD 921 926	Оскар
+T19	DATE 938 960	Меньше чем через сутки
+T20	DATE 1087 1097	Этим утром
+T21	PERSON 1107 1125	Джузеппе Торнаторе
+T22	PERSON 1206 1224	Квентино Тарантино
+T23	PERSON 1304 1313	Морриконе
+T24	ORGANIZATION 1397 1412	Playboy Germany
+T25	PERSON 1488 1497	Тарантино
+T26	DATE 1550 1557	30 июня
+T27	CITY 1560 1564	Риме
+T28	COUNTRY 1640 1648	немецкой
+T29	ORGANIZATION 1669 1684	Semmel Concerts
+T30	PERSON 1735 1749	Марсель Андерс
+T31	PROFESSION 1751 1772	музыкальный журналист
+T32	ORGANIZATION 1840 1856	Deutschelandfunk
+T33	WORK_OF_ART 1910 1933	Омерзительная восьмерка
+T34	DATE 1937 1948	В 2007 году
+T35	PERSON 1987 2002	Эннио Морриконе
+T36	NUMBER 2022 2035	более чем 400
+T37	LOCATION 2051 2062	европейских
+T38	DATE 116 127	На выходных
+T5	PROFESSION 275 285	композитор
+T39	PROFESSION 559 568	режиссёра
+T40	PROFESSION 973 983	композитор
+T41	PROFESSION 1245 1255	режиссеров
+T42	PROFESSION 1436 1446	композитор
+T43	PROFESSION 1763 1772	журналист
+T44	PROFESSION 1863 1880	деятели искусства
+T45	PROFESSION 1949 1959	композитор
+T47	ORGANIZATION 701 710	Голливуда
+T48	PERSON 856 865	Морриконе
+T49	NATIONALITY 961 972	итальянский
+T51	EVENT 1531 1539	интервью
+T52	PROFESSION 1626 1684	представители немецкой концертной компании Semmel Concerts
+T53	AWARD 1978 1983	Оскар
+T54	COUNTRY 2036 2048	американских
+T46	COUNTRY 60 67	Germany
+T55	COUNTRY 155 162	Germany
+T56	COUNTRY 1405 1412	Germany
+T50	PROFESSION 1385 1412	Руководство Playboy Germany

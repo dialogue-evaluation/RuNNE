@@ -1,0 +1,22 @@
+T1	PERSON 0 15	Дженнифер Лопес
+T2	WORK_OF_ART 38 47	Limitless
+T3	PERSON 48 63	Дженнифер Лопес
+T4	AGE 85 94	49 летняя
+T5	PERSON 115 130	Дженнифер Лопес
+T6	WORK_OF_ART 153 162	Limitless
+T7	WORK_OF_ART 200 213	Начни сначала
+T8	PERSON 215 228	Питера Сигала
+T9	PERSON 239 248	Дженнифер
+T10	DATE 299 321	на 10 января 2019 года
+T11	PERSON 330 345	Дженнифер Лопес
+T12	NATIONALITY 358 373	пуэрториканским
+T13	PERSON 385 394	Bad Bunny
+T14	WORK_OF_ART 416 424	Te Guste
+T15	DATE 64 83	16 ноября 2018 года
+T16	NATIONALITY 95 107	американская
+T17	PROFESSION 108 114	певица
+T18	EVENT 271 279	Премьера
+T19	PROFESSION 374 384	музыкантом
+T20	EVENT 16 25	выпустила
+T21	EVENT 131 140	выпустила
+T22	EVENT 271 286	Премьера фильма

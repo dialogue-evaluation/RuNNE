@@ -1,0 +1,31 @@
+T1	NATIONALITY 0 9	Словацкий
+T2	PERSON 17 28	Жолт Хорняк
+T3	ORGANIZATION 40 46	Бананц
+T4	CITY 49 55	Ереван
+T5	NATIONALITY 58 67	Словацкий
+T6	PERSON 75 86	Жолт Хорняк
+T7	PROFESSION 98 141	главным тренером футбольного клуба "Бананц"
+T8	ORGANIZATION 134 140	Бананц
+T9	CITY 143 149	Ереван
+T10	AGE 163 172	40 летним
+T11	PROFESSION 278 294	главного тренера
+T12	ORGANIZATION 296 303	Бананца
+T13	PERSON 305 311	Хорняк
+T14	NATIONALITY 320 331	украинского
+T15	PERSON 344 361	Владимира Пятенко
+T16	DATE 378 396	в прошедшем сезоне
+T17	PERSON 397 403	Хорняк
+T18	ORGANIZATION 416 420	Мику
+T19	PROFESSION 10 16	тренер
+T20	PROFESSION 68 74	тренер
+T21	PROFESSION 98 114	главным тренером
+T22	PROFESSION 173 181	тренером
+T23	PROFESSION 287 294	тренера
+T24	EVENT 459 477	чемпионата Армении
+T25	COUNTRY 470 477	Армении
+T26	AWARD 440 458	серебряным медалям
+T27	PROFESSION 332 343	специалиста
+T28	PROFESSION 106 114	тренером
+T29	AWARD 440 477	серебряным медалям чемпионата Армении
+T30	PROFESSION 278 304	главного тренера "Бананца"
+T31	EVENT 29 38	возглавил

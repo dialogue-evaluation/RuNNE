@@ -1,0 +1,51 @@
+T1	PERSON 0 10	Билл Гейтс
+T2	ORGANIZATION 19 45	совет директоров Microsoft
+T3	PERSON 46 56	Билл Гейтс
+T4	DATE 57 75	8 ноября 2019 года
+T6	AGE 99 108	64-летний
+T7	PERSON 109 119	Билл Гейтс
+T8	ORGANIZATION 129 145	совет директоров
+T9	PROFESSION 198 255	советника генерального директора Microsoft по технологиям
+T11	ORGANIZATION 257 266	Microsoft
+T12	DATE 284 313	в субботу, 14 марта 2020 года
+T13	PERSON 316 321	Гейтс
+T14	ORGANIZATION 338 346	LinkedIn
+T15	ORGANIZATION 361 419	совета директоров инвестиционного фонда Berkshire Hathaway
+T16	ORGANIZATION 401 419	Berkshire Hathaway
+T17	PERSON 420 435	Уоррена Баффета
+T18	PERSON 453 459	Гейтса
+T19	ORGANIZATION 463 472	Microsoft
+T20	ORGANIZATION 536 563	Фонда Билла и Мелинды Гейтс
+T21	PERSON 565 570	Гейтс
+T22	COUNTRY 838 841	США
+T23	MONEY 866 882	50 млрд долларов
+T24	PERSON 885 890	Гейтс
+T25	ORDINAL 900 906	вторую
+T26	MONEY 992 1009	103 млрд долларов
+T27	DATE 1012 1023	В 1975 году
+T28	PERSON 1033 1046	Полом Алленом
+T29	ORGANIZATION 1067 1076	Microsoft
+T32	PERSON 1204 1217	Уоррен Баффет
+T33	NUMBER 1326 1341	больше половины
+T34	DATE 1377 1393	С июня 2008 года
+T35	ORGANIZATION 1442 1451	Microsoft
+T36	PERCENT 1478 1487	около 1 %
+T37	PERSON 1517 1523	Гейтса
+T38	ORGANIZATION 1527 1554	совете директоров Microsoft
+T39	NUMBER 1565 1567	12
+T40	PERSON 1597 1610	Сатья Наделла
+T41	ORGANIZATION 36 45	Microsoft
+T42	ORGANIZATION 89 98	Microsoft
+T43	ORGANIZATION 231 240	Microsoft
+T10	PROFESSION 221 255	директора Microsoft по технологиям
+T44	PROFESSION 208 255	генерального директора Microsoft по технологиям
+T45	PERSON 542 547	Билла
+T46	PERSON 550 563	Мелинды Гейтс
+T47	FAMILY 739 746	Гейтсев
+T48	ORGANIZATION 716 746	Благотворительный фонд Гейтсев
+T49	PERSON 1185 1190	Гейтс
+T31	ORGANIZATION 1239 1253	Клятва дарения
+T50	PERSON 1394 1399	Гейтс
+T51	ORGANIZATION 1545 1554	Microsoft
+T5	EVENT 11 18	покинул
+T52	EVENT 120 128	покидает

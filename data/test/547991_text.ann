@@ -1,0 +1,26 @@
+T2	PERSON 27 45	Дженезис Пи-Орридж
+T3	PERSON 46 64	Дженезис Пи-Орридж
+T4	DATE 67 94	субботу, 14 марта 2020 года
+T5	PERSON 101 119	Дженезис Пи-Орридж
+T6	NATIONALITY 122 132	британский
+T7	PERSON 250 259	Пи-Орридж
+T8	CITY 284 293	Нью-Йорке
+T9	AGE 325 331	70 лет
+T10	DATE 360 371	в 2017 году
+T11	ORGANIZATION 409 426	Throbbing Gristle
+T12	ORGANIZATION 428 438	Psychic TV
+T13	ORGANIZATION 441 453	Thee Majesty
+T14	PERSON 456 472	Нил Эндрю Мэгсон
+T15	DATE 481 501	22 февраля 1950 года
+T16	CITY 504 514	Манчестере
+T17	COUNTRY 516 522	Англия
+T18	PERSON 535 553	Дженезис Пи-Орридж
+T19	EVENT 0 4	Умер
+T1	EVENT 96 100	умер
+T20	PROFESSION 133 141	музыкант
+T21	PROFESSION 143 147	поэт
+T22	PROFESSION 149 167	перформанс-деятель
+T23	RELIGION 170 180	оккультист
+T26	DISEASE 268 276	лейкемии
+T24	EVENT 260 264	умер
+T25	EVENT 473 480	родился

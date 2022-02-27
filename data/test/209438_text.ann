@@ -1,0 +1,80 @@
+T1	COUNTRY 0 13	Индонезийский
+T3	CITY 42 51	Нью-Йорке
+T4	PERSON 52 64	Пэрис Хилтон
+T5	PERSON 83 94	Эзра Уильям
+T6	PRODUCT 109 119	Инстаграма
+T7	COUNTRY 160 169	Индонезии
+T8	CITY 182 191	Нью-Йорке
+T10	ORGANIZATION 218 242	South China Morning Post
+T11	AGE 332 341	29-летний
+T12	PERSON 342 353	Эзра Уильям
+T13	PERSON 355 370	Ezra J. William
+T14	CITY 402 411	Нью-Йорка
+T15	ORGANIZATION 428 433	Wayan
+T16	COUNTRY 460 473	индонезийской
+T17	PERSON 496 502	Седрик
+T18	PERSON 505 520	Очи Вонгерихтен
+T20	PROFESSION 548 558	шеф-повара
+T21	PERSON 559 582	Жана-Жоржа Вонгерихтена
+T22	PERSON 584 609	Jean-Georges Vongerichten
+T23	DATE 642 668	в начале февраля 2019 года
+T24	EVENT 678 689	Недели моды
+T25	CITY 692 701	Нью-Йорке
+T27	PERSON 748 755	Уильяма
+T28	NATIONALITY 786 792	китаец
+T30	PERSON 867 873	Уильям
+T31	CITY 884 892	Джакарте
+T32	ORGANIZATION 903 928	Нью-Йоркском университете
+T34	DISTRICT 952 964	Вест-Виллидж
+T36	DISTRICT 967 977	Манхэттене
+T37	PERSON 989 996	Уильяма
+T38	MONEY 1182 1200	740 тысяч долларов
+T39	NUMBER 1202 1217	примерно в 2600
+T40	COUNTRY 1254 1263	Индонезии
+T41	CITY 1300 1312	нью-йоркской
+T42	PERSON 1347 1360	Тиффани Трамп
+T43	COUNTRY 1367 1380	американского
+T44	ORDINAL 1405 1411	второй
+T45	PERSON 1417 1429	Марлы Мейплз
+T46	PROFESSION 1526 1536	фотомодель
+T47	PERSON 1549 1561	Андреа Пежич
+T48	PERSON 1570 1582	Пэрис Хилтон
+T49	PERSON 1585 1606	Никки Хилтон-Ротшильд
+T50	PERSON 1615 1626	Хилари Рода
+T51	PROFESSION 1628 1635	актриса
+T52	PERSON 1636 1647	Эшли Бенсон
+T53	COUNTRY 1681 1688	Америки
+T54	PERSON 1689 1706	Саманта Перельман
+T55	PERSON 1715 1730	Виктория Бекхэм
+T56	COUNTRY 1735 1740	Китае
+T57	ORDINAL 1949 1955	втором
+T58	MONEY 2035 2046	сотни тысяч
+T60	MONEY 2075 2090	30 млн долларов
+T61	PRODUCT 2150 2161	Apple Watch
+T62	PROFESSION 2163 2174	глава Китая
+T63	PERSON 2175 2186	Си Цзиньпин
+T64	PROFESSION 14 20	блогер
+T2	PROFESSION 102 108	блогер
+T9	DISTRICT 412 418	Нолита
+T66	EVENT 613 631	Открытие ресторана
+T67	EVENT 714 736	китайского Нового года
+T68	EVENT 725 736	Нового года
+T26	EVENT 855 864	Новый год
+T29	CITY 903 915	Нью-Йоркском
+T35	PROFESSION 1381 1391	президента
+T69	PROFESSION 1367 1391	американского президента
+T70	PERSON 1392 1398	Трампа
+T71	PRODUCT 1440 1450	инстаграме
+T72	PROFESSION 1608 1614	модель
+T73	PROFESSION 1708 1714	модель
+T59	TIME 2047 2054	за ночь
+T75	EVENT 2064 2071	свадьба
+T33	COUNTRY 2169 2174	Китая
+T74	LOCATION 218 229	South China
+T76	LOCATION 224 229	China
+T77	COUNTRY 714 724	китайского
+T78	ORGANIZATION 2150 2155	Apple
+T19	PROFESSION 102 119	блогер Инстаграма
+T65	EVENT 21 39	открывает ресторан
+T79	EVENT 170 179;197 205	открывает ресторан
+T80	EVENT 874 881	родился

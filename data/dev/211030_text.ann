@@ -1,0 +1,34 @@
+T1	WORK_OF_ART 0 10	Art in Art
+T2	PERSON 12 16	Анна
+T3	PERSON 19 24	Элвис
+T4	FACILITY 83 93	Московской
+T5	CITY 118 124	Калуге
+T6	WORK_OF_ART 144 166	Art in Art. Reflection
+T7	AGE 167 176	14-летней
+T8	PERSON 198 211	Анны Ухалиной
+T9	AGE 214 224	28-летнего
+T10	PERSON 225 237	Элвиса Вейса
+T11	CITY 239 252	брюссельского
+T12	PERSON 306 311	Анной
+T15	ORDINAL 527 533	первая
+T16	NUMBER 560 562	28
+T17	PERSON 660 664	Анна
+T18	PERSON 676 683	Элвисом
+T19	CITY 720 726	Москве
+T20	PERSON 881 886	Элвис
+T21	WORK_OF_ART 1183 1187	Руны
+T22	CITY 48 54	Калуга
+T23	FACILITY 68 80	Достоевского
+T24	DATE 94 114	10 февраля 2019 года
+T25	CITY 177 187	московской
+T26	PROFESSION 271 280	дизайнера
+T27	WORK_OF_ART 357 364	Ангелов
+T28	WORK_OF_ART 467 519	Чудачки-бабули. Мадам Трули-Пулли, мадам Фрули-Пулли
+T13	PERSON 543 547	Анны
+T14	LANGUAGE 765 774	по-русски
+T29	PROFESSION 188 197	художници
+T30	PERSON 489 500	Трули-Пулли
+T31	PERSON 508 519	Фрули-Пулли
+T32	EVENT 317 325	выставке
+T33	PROFESSION 411 420	художницы
+T34	EVENT 534 542	выставка

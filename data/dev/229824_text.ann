@@ -1,0 +1,27 @@
+T1	PERSON 0 9	Монеточка
+T2	CITY 31 41	Петербурге
+T3	CITY 61 74	петербургском
+T4	FACILITY 81 83	A2
+T6	EVENT 139 151	дню рождения
+T7	DATE 161 167	1 июня
+T8	AGE 182 188	21 год
+T9	WORK_OF_ART 268 290	Раскраски для взрослых
+T10	DATE 303 312	год назад
+T11	PROFESSION 412 426	стендап-комика
+T12	PERSON 427 445	Данилы Поперечного
+T13	PERSON 512 523	Вити Исаева
+T14	PERSON 573 587	Игорь Журавлёв
+T15	ORGANIZATION 599 605	Альянс
+T16	PERSON 622 627	Лизой
+T17	WORK_OF_ART 635 642	На заре
+T18	ORGANIZATION 656 671	Кривого зеркала
+T19	ORGANIZATION 675 684	VRUMZSSSR
+T21	EVENT 91 98	концерт
+T22	PERSON 99 108	Монеточки
+T23	EVENT 377 384	концерт
+T24	PROFESSION 397 409	видеоблогера
+T25	PROFESSION 420 426	комика
+T20	DATE 42 58	7 июня 2019 года
+T5	EVENT 110 121	Выступление
+T27	EVENT 385 396	выступление
+T28	EVENT 476 487	выступления

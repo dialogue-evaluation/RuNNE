@@ -1,0 +1,63 @@
+T1	COUNTRY 0 12	Американский
+T2	MONEY 28 43	80 млн долларов
+T3	ORGANIZATION 46 54	Monsanto
+T4	ORGANIZATION 71 79	Monsanto
+T5	DATE 80 107	В среду, 27 марта 2019 года
+T6	ORGANIZATION 109 124	федеральный суд
+T7	CITY 125 138	Сан-Франциско
+T8	COUNTRY 140 143	США
+T9	COUNTRY 152 164	американскую
+T10	ORGANIZATION 174 182	Monsanto
+T11	MONEY 193 210	80,3 млн долларов
+T12	AGE 211 221	70-летнему
+T13	PRODUCT 301 308	Roundup
+T14	AGE 336 346	70-летнего
+T15	STATE_OR_PROVINCE 354 364	Калифорнии
+T16	PERSON 365 378	Эдвин Хардман
+T17	DATE 396 421	в течение примерно 26 лет
+T18	DATE 515 526	в 2019 году
+T19	CITY 540 553	Сан-Франциско
+T20	MONEY 580 587	$78 млн
+T21	NATIONALITY 596 606	американцу
+T22	AGE 609 619	46-летнему
+T23	ORGANIZATION 662 670	Monsanto
+T24	NUMBER 749 757	11 тысяч
+T25	ORGANIZATION 792 800	Monsanto
+T26	COUNTRY 811 819	немецкий
+T27	ORGANIZATION 828 833	Bayer
+T28	ORGANIZATION 852 860	Monsanto
+T29	DATE 861 872	в 2018 году
+T30	NUMBER 956 968	десятилетних
+T31	DATE 1215 1226	В 2015 году
+T32	ORGANIZATION 1290 1327	Всемирной организации здравоохранения
+T33	DATE 1450 1468	сентябре 2018 года
+T34	ORGANIZATION 1469 1509	Агентство по охране окружающей среды США
+T36	COUNTRY 1574 1586	Американская
+T37	ORGANIZATION 1596 1604	Monsanto
+T38	ORGANIZATION 1708 1716	Monsanto
+T39	ORGANIZATION 1723 1728	Bayer
+T40	PERCENT 1735 1752	более чем на 40 %
+T41	COUNTRY 1842 1848	России
+T42	PRODUCT 1884 1891	Раундап
+T43	PRODUCT 1895 1901	Глифор
+T44	PRODUCT 1905 1912	Торнадо
+T45	PRODUCT 1916 1922	Ураган
+T46	PROFESSION 13 19	фермер
+T47	PROFESSION 265 274	присяжных
+T48	ORGANIZATION 109 138	федеральный суд Сан-Франциско
+T49	PENALTY 183 210	выплатить 80,3 млн долларов
+T50	DISEASE 232 259	онкологическим заболеванием
+T51	ORGANIZATION 261 274	Суд присяжных
+T52	DISEASE 329 333	рака
+T53	PERSON 620 636	Деуэйну Джонсону
+T54	DISEASE 1150 1177	онкологическим заболеваниям
+T55	ORGANIZATION 1227 1267	Международное агентство по изучению рака
+T56	DISEASE 1263 1267	рака
+T35	COUNTRY 1506 1509	США
+T57	ORGANIZATION 1469 1505	Агентство по охране окружающей среды
+T58	DISEASE 1552 1571	раковых заболеваний
+T59	NUMBER 1607 1611	один
+T60	EVENT 843 851	приобрёл
+T61	EVENT 20 27	отсудил
+T62	PENALTY 570 587	выплатить $78 млн
+T63	EVENT 1700 1707	покупки
