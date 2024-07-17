@@ -49,5 +49,47 @@
 
 
 ## Публикации
-1. Loukachevitch, Natalia, Ekaterina Artemova, Tatiana Batura, Pavel Braslavski, Ilia Denisov, Vladimir Ivanov, Suresh Manandhar, Alexander Pugachev, and Elena Tutubalina. "NEREL: A Russian Dataset with Nested Named Entities and Relations." In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021) (pp. 876-885). https://aclanthology.org/2021.ranlp-main.100.pdf
-2. Artemova, Ekaterina, Maxim Zmeev, Natalia Loukachevitch, Igor Rozhkov, Tatiana Batura, Vladimir Ivanov, and Elena Tutubalina. "Runne-2022 shared task: Recognizing nested named entities." arXiv preprint arXiv:2205.11159 (2022).
+
+[1] Loukachevitch N. et al. [NEREL: a Russian information extraction dataset with rich annotation for nested entities, relations, and wikidata entity links](https://link.springer.com/article/10.1007/s10579-023-09674-z). Language Resources and Evaluation (2023). https://doi.org/10.1007/s10579-023-09674-z
+
+```
+    @article{loukachevitch2023nerel,
+      title={NEREL: a Russian information extraction dataset with rich annotation for nested entities, relations, and wikidata entity links},
+      author={Loukachevitch, Natalia and Artemova, Ekaterina and Batura, Tatiana and Braslavski, Pavel and Ivanov, Vladimir and Manandhar, Suresh and Pugachev, Alexander and Rozhkov, Igor and Shelmanov, Artem and Tutubalina, Elena and others},
+      journal={Language Resources and Evaluation},
+      pages={1--37},
+      year={2023},
+      publisher={Springer}
+    }
+```
+
+[2] Loukachevitch N., Artemova E., Batura T., Braslavski P., Denisov I., Ivanov V., Manandhar S., Pugachev A., Tutubalina E. [NEREL: A Russian Dataset with Nested Named Entities, Relations and Events](https://acl-bg.org/proceedings/2021/RANLP%202021/pdf/2021.ranlp-1.100.pdf). Proceedings of RANLP. 2021. pp. 880–889.
+
+```
+
+    @inproceedings{loukachevitch2021nerel,
+      title={{NEREL: A Russian} Dataset with Nested Named Entities, Relations and Events},
+      author={Loukachevitch, Natalia and Artemova, Ekaterina and Batura, Tatiana and Braslavski, Pavel and Denisov, Ilia and Ivanov, Vladimir and Manandhar, Suresh and Pugachev, Alexander and Tutubalina, Elena},
+      booktitle={Proceedings of RANLP},
+      pages={876--885},
+      year={2021}
+    }
+
+```
+
+[3] Artemova, E., Zmeev, M., Loukachevitch, N., Rozhkov, I., Batura, T., Ivanov, V., & Tutubalina, E. RuNNE-2022 Shared Task: Recognizing Nested Named Entities. Komp'juternaja Lingvistika i Intellektual'nye Tehnologii. 2022. pp. 33-41.
+
+
+
+```
+@article{artemova2022runne,
+ author = {Artemova, Ekaterina and Zmeev, Maxim and Loukachevitch, Natalia and Rozhkov, Igor and Batura, Tatiana and Ivanov, Vladimir and Tutubalina, Elena},
+ title = {RuNNE-2022 Shared Task: Recognizing Nested Named Entities},
+ year = {2022},
+ journal = {Komp'juternaja Lingvistika i Intellektual'nye Tehnologii},
+ volume = {2022},
+ number = {21},
+ pages = {33 – 41},
+ doi = {10.28995/2075-7182-2022-21-33-41}
+}
+```
