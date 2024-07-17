@@ -47,4 +47,7 @@
 * Владимир Иванов (Иннополис)
 * Елена Тутубалина (Sber AI, НИУ ВШЭ)
 
+
+## Публикации
 1. Loukachevitch, Natalia, Ekaterina Artemova, Tatiana Batura, Pavel Braslavski, Ilia Denisov, Vladimir Ivanov, Suresh Manandhar, Alexander Pugachev, and Elena Tutubalina. "NEREL: A Russian Dataset with Nested Named Entities and Relations." In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021) (pp. 876-885). https://aclanthology.org/2021.ranlp-main.100.pdf
+2. Artemova, Ekaterina, Maxim Zmeev, Natalia Loukachevitch, Igor Rozhkov, Tatiana Batura, Vladimir Ivanov, and Elena Tutubalina. "Runne-2022 shared task: Recognizing nested named entities." arXiv preprint arXiv:2205.11159 (2022).
